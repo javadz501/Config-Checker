@@ -304,6 +304,15 @@ class ConfigRenamer:
         
         return info_parts
 
+    def build_display_name(self, protocol_type: str, flag: str, data: Dict, port: object) -> str:
+        protocol_info = self.build_protocol_info(protocol_type, data)
+        details = [part for part in protocol_info[1:] if part]
+        suffix = "+".join(details)
+        parts = [protocol_type, flag]
+        if suffix:
+            parts.append(suffix)
+        return " ".join(parts) + f" [{port}]"
+
     def rename_config(self, config: str, index: int, protocol_type: str) -> Optional[str]:
         try:
             config_lower = config.lower()
@@ -314,9 +323,7 @@ class ConfigRenamer:
                     logger.warning(f"Could not parse VMess config at index {index}")
                     return config
                 flag, country_code = self.get_location(data['add'])
-                protocol_info = self.build_protocol_info(protocol_type, data)
-                protocol_str = '/'.join(protocol_info)
-                new_name = f"{flag} {index} - {country_code} - {protocol_str} - {data['port']}"
+                new_name = self.build_display_name(protocol_type, flag, data, data['port'])
                 data['ps'] = new_name
                 encoded = base64.b64encode(json.dumps(data, ensure_ascii=False).encode('utf-8')).decode('utf-8')
                 return f"vmess://{encoded}"
@@ -327,9 +334,7 @@ class ConfigRenamer:
                     logger.warning(f"Could not parse VLESS config at index {index}")
                     return config
                 flag, country_code = self.get_location(data['address'])
-                protocol_info = self.build_protocol_info(protocol_type, data)
-                protocol_str = '/'.join(protocol_info)
-                new_name = f"{flag} {index} - {country_code} - {protocol_str} - {data['port']}"
+                new_name = self.build_display_name(protocol_type, flag, data, data['port'])
                 url = urlparse(config)
                 params = parse_qs(url.query)
                 query_parts = []
@@ -346,9 +351,7 @@ class ConfigRenamer:
                     logger.warning(f"Could not parse Trojan config at index {index}")
                     return config
                 flag, country_code = self.get_location(data['address'])
-                protocol_info = self.build_protocol_info(protocol_type, data)
-                protocol_str = '/'.join(protocol_info)
-                new_name = f"{flag} {index} - {country_code} - {protocol_str} - {data['port']}"
+                new_name = self.build_display_name(protocol_type, flag, data, data['port'])
                 url = urlparse(config)
                 params = parse_qs(url.query)
                 query_parts = []
@@ -365,9 +368,7 @@ class ConfigRenamer:
                     logger.warning(f"Could not parse Hysteria2 config at index {index}")
                     return config
                 flag, country_code = self.get_location(data['address'])
-                protocol_info = self.build_protocol_info(protocol_type, data)
-                protocol_str = '/'.join(protocol_info)
-                new_name = f"{flag} {index} - {country_code} - {protocol_str} - {data['port']}"
+                new_name = self.build_display_name(protocol_type, flag, data, data['port'])
                 url = urlparse(config)
                 query_string = url.query
                 protocol = 'hysteria2' if config_lower.startswith('hysteria2://') else 'hy2'
@@ -380,9 +381,7 @@ class ConfigRenamer:
                     logger.warning(f"Could not parse Shadowsocks config at index {index}")
                     return config
                 flag, country_code = self.get_location(data['address'])
-                protocol_info = self.build_protocol_info(protocol_type, data)
-                protocol_str = '/'.join(protocol_info)
-                new_name = f"{flag} {index} - {country_code} - {protocol_str} - {data['port']}"
+                new_name = self.build_display_name(protocol_type, flag, data, data['port'])
                 method_pass = f"{data['method']}:{data['password']}"
                 encoded = base64.b64encode(method_pass.encode('utf-8')).decode('utf-8').replace('+', '-').replace('/', '_').rstrip('=')
                 new_config = f"ss://{encoded}@{data['address']}:{data['port']}#{new_name}"

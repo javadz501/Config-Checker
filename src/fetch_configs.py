@@ -413,6 +413,13 @@ class ConfigFetcher:
         
         if all_configs:
             all_configs = self.balance_protocols(sorted(set(all_configs)))
+            # Enforce SPECIFIC_CONFIG_COUNT as a hard upper bound on fetched candidates.
+            if not self.config.use_maximum_power and self.config.specific_config_count > 0:
+                all_configs = all_configs[:self.config.specific_config_count]
+                logger.info(
+                    "Applied configured candidate limit: %s configs",
+                    len(all_configs)
+                )
             return all_configs
         return []
 
