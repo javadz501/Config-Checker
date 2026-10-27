@@ -4,7 +4,41 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443?insecure=1&sni=t.me#🇨🇦 19 - CA - Hysteria2/QUIC - 443
+vless://c166ca49-4af0-416d-8411-2100f7bde9fe@66.154.101.36:443?security=reality&encryption=none&pbk=t_aj99mkcVXDY_7xI9RhWyEY3khupiGiDsGKEJ7EajM&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.tesla.com&sid=5590a9bae52e0586#🇨🇦 2910 - CA - VLESS/REALITY/PBK/SID/UTLS - 443
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=t.me#🇨🇦 22 - CA - Hysteria2/QUIC - 443
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=f98843107912e782&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk#🇨🇦 3055 - CA - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#🇨🇦 3344 - CA - VLESS/REALITY/PBK/SID/UTLS - 2053
+
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com#🇨🇦 715 - CA - Trojan/TLS - 443
+
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#🇨🇦 331 - CA - SS/AEAD - 5000
+
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#🇨🇦 337 - CA - SS/AEAD - 5601
+
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦 369 - CA - SS/AEAD - 8119
+
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#🇨🇦 370 - CA - SS/AEAD - 8118
+
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 385 - CA - SS/AEAD - 5003
+
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦 388 - CA - SS/AEAD - 8882
+
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 389 - CA - SS/AEAD - 8882
+
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 406 - CA - SS/AEAD - 445
+
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 408 - CA - SS/AEAD - 445
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443?insecure=1&sni=t.me#🇨🇦 33 - CA - Hysteria2/QUIC - 443
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=t.me#🇨🇦 37 - CA - Hysteria2/QUIC - 443
+
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAxODAwMCwgInBzIjogIvCfh6jwn4emIDE4OTYgLSBDQSAtIFZNZXNzIC0gMTgwMDAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAiQHZwbmJhevCfpoQifQ==
+
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgImFpZCI6IDAsICJob3N0IjogInYycmF5bnBsdXMtdjJyYXlucGx1cy12MnJheW5wbHVzIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL3YycmF5TnBsdXMtdjJyYXlOcGx1cy12MnJheU5wbHVzIiwgInBvcnQiOiAxODAwMCwgInBzIjogIvCfh6jwn4emIDE4OTcgLSBDQSAtIFZNZXNzIC0gMTgwMDAiLCAic25pIjogIkB2cG5pbmUxIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBDRDU3NTQiLCAic2N5IjogImF1dG8ifQ==
+
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgImFpZCI6IDAsICJob3N0IjogIkB2cG5pbmUxIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL0BWUE5pbmUxIiwgInBvcnQiOiAxODAwMCwgInBzIjogIvCfh6jwn4emIDE4OTggLSBDQSAtIFZNZXNzIC0gMTgwMDAiLCAic25pIjogIkB2cG5pbmUxIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAwMEREMTYiLCAic2N5IjogImF1dG8ifQ==
+
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4xOTgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAxODAwMCwgInBzIjogIvCfh6jwn4emIDIxNjMgLSBDQSAtIFZNZXNzIC0gMTgwMDAiLCAic25pIjogIjIzLjE2Mi4yMDAuMTk4IiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBCQTVFNDIiLCAic2N5IjogImF1dG8ifQ==
 
