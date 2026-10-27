@@ -118,15 +118,17 @@
                 "Trojan 🇪🇸 TLS [443] #30",
                 "Trojan 🇪🇸 TLS [443] #31",
                 "Trojan 🇪🇸 TLS [443] #32",
-                "Trojan 🇺🇸 TLS [443] #33",
+                "Trojan 🇪🇸 TLS [443] #33",
                 "Trojan 🇺🇸 TLS [443] #34",
                 "Trojan 🇺🇸 TLS [443] #35",
                 "Trojan 🇺🇸 TLS [443] #36",
+                "Trojan 🇺🇸 TLS [443] #37",
                 "SS 🇩🇪 2022+BLAKE3 [53185] #1",
                 "SS 🇳🇱 AEAD [8080] #2",
                 "SS 🇵🇱 AEAD [443] #3",
                 "SS 🇵🇱 AEAD [443] #4",
                 "SS 🇵🇱 AEAD [443] #5",
+                "SS 🇫🇮 AEAD [8388] #6",
                 "Hysteria2 🇺🇸 QUIC [443] #8",
                 "Hysteria2 🇳🇱 QUIC+OBFS [8443] #47",
                 "direct"
@@ -173,15 +175,17 @@
                 "Trojan 🇪🇸 TLS [443] #30",
                 "Trojan 🇪🇸 TLS [443] #31",
                 "Trojan 🇪🇸 TLS [443] #32",
-                "Trojan 🇺🇸 TLS [443] #33",
+                "Trojan 🇪🇸 TLS [443] #33",
                 "Trojan 🇺🇸 TLS [443] #34",
                 "Trojan 🇺🇸 TLS [443] #35",
                 "Trojan 🇺🇸 TLS [443] #36",
+                "Trojan 🇺🇸 TLS [443] #37",
                 "SS 🇩🇪 2022+BLAKE3 [53185] #1",
                 "SS 🇳🇱 AEAD [8080] #2",
                 "SS 🇵🇱 AEAD [443] #3",
                 "SS 🇵🇱 AEAD [443] #4",
                 "SS 🇵🇱 AEAD [443] #5",
+                "SS 🇫🇮 AEAD [8388] #6",
                 "Hysteria2 🇺🇸 QUIC [443] #8",
                 "Hysteria2 🇳🇱 QUIC+OBFS [8443] #47"
             ],
@@ -802,12 +806,12 @@
         {
             "type": "trojan",
             "tag": "Trojan 🇪🇸 TLS [443] #29",
-            "server": "66.163.118.244",
+            "server": "66.163.118.166",
             "server_port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "api.discovergreatjobsandadvanceyourcareer.com",
+                "server_name": "learn.discovergreatjobsandadvanceyourcareer.com",
                 "insecure": false,
                 "alpn": [
                     "h2",
@@ -844,6 +848,27 @@
         {
             "type": "trojan",
             "tag": "Trojan 🇪🇸 TLS [443] #31",
+            "server": "66.163.118.244",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "tls": {
+                "enabled": true,
+                "server_name": "api.discovergreatjobsandadvanceyourcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "trojan",
+            "tag": "Trojan 🇪🇸 TLS [443] #32",
             "server": "66.163.118.251",
             "server_port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
@@ -864,7 +889,7 @@
         },
         {
             "type": "trojan",
-            "tag": "Trojan 🇪🇸 TLS [443] #32",
+            "tag": "Trojan 🇪🇸 TLS [443] #33",
             "server": "66.163.118.62",
             "server_port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
@@ -885,7 +910,7 @@
         },
         {
             "type": "trojan",
-            "tag": "Trojan 🇺🇸 TLS [443] #33",
+            "tag": "Trojan 🇺🇸 TLS [443] #34",
             "server": "66.163.122.113",
             "server_port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
@@ -906,7 +931,7 @@
         },
         {
             "type": "trojan",
-            "tag": "Trojan 🇺🇸 TLS [443] #34",
+            "tag": "Trojan 🇺🇸 TLS [443] #35",
             "server": "66.163.122.25",
             "server_port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
@@ -927,7 +952,7 @@
         },
         {
             "type": "trojan",
-            "tag": "Trojan 🇺🇸 TLS [443] #35",
+            "tag": "Trojan 🇺🇸 TLS [443] #36",
             "server": "66.163.122.7",
             "server_port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
@@ -948,7 +973,7 @@
         },
         {
             "type": "trojan",
-            "tag": "Trojan 🇺🇸 TLS [443] #36",
+            "tag": "Trojan 🇺🇸 TLS [443] #37",
             "server": "66.163.122.81",
             "server_port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
@@ -1006,6 +1031,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "6heexyz"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "SS 🇫🇮 AEAD [8388] #6",
+            "server": "ams1.rvpn.app",
+            "server_port": 8388,
+            "method": "chacha20-ietf-poly1305",
+            "password": "x2A6AsyZ-rAllz0wbKHzWA"
         },
         {
             "type": "hysteria2",
