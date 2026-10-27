@@ -4,11 +4,7 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&fp=chrome&sni=ph-nl-s3784.cybercat.network&type=tcp&headerType=none&host=ph-nl-s3784.cybercat.network&path=/#🇧🇪 3321 - BE - VLESS/REALITY/PBK/SID/UTLS - 443
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&fp=chrome&sni=ph-nl-s3784.cybercat.network&type=tcp&headerType=none&host=ph-nl-s3784.cybercat.network&path=/#🇧🇪 3326 - BE - VLESS/REALITY/PBK/SID/UTLS - 443
 
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇧🇪 3322 - BE - VLESS/REALITY/PBK/SID - 443
-
-vless://fafc7c16-f890-45ee-a856-02df225172dd@2.27.206.215:2052?encryption=none&mode=stream-up&path=/cdn/api&pbk=3ds1sPK8MuZVr6IOAwjRx0h_2IZMZ2v_RzNGl3iYwno&security=reality&sid=025ee5be0c789ece&sni=yastatic.net&type=xhttp#🇧🇪 3883 - BE - VLESS/XHTTP/REALITY/PBK/SID - 2052
-
-vless://fafc7c16-f890-45ee-a856-02df225172dd@2.27.206.215:4444?security=reality&flow=xtls-rprx-vision&pbk=3ds1sPK8MuZVr6IOAwjRx0h_2IZMZ2v_RzNGl3iYwno&sid=93907e6811339813&fp=chrome&sni=yastatic.net&type=tcp&headerType=none&host=yastatic.net&path=/#🇧🇪 3885 - BE - VLESS/REALITY/PBK/SID/VISION/UTLS - 4444
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇧🇪 3327 - BE - VLESS/REALITY/PBK/SID - 443
 

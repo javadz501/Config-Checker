@@ -4,29 +4,27 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@se.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#🇸🇪 967 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 1443
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@se.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#🇸🇪 963 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 1443
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?telegram--i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3278 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3285 - SE - VLESS/REALITY/PBK/SID/VISION - 443
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/@Net2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3279 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?telegram--i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3286 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3280 - SE - VLESS/REALITY/PBK/SID/VISION - 443
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?TELEGRAM---V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3289 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?telegram--i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3281 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=/#🇸🇪 3290 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?TELEGRAM---V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3284 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🇸🇪 3291 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=/#🇸🇪 3285 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?TELEGRAM--i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3292 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🇸🇪 3287 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?TELEGRAM--i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3288 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇸🇪 3293 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
 hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?security=tls&obfs=salamander&obfs-password=09p333uviv2qal0y&insecure=0&sni=giftcard.gisora.ir#🇸🇪 12 - SE - Hysteria2/QUIC/OBFS - 52000
 
-hysteria2://Telegram-vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇸🇪 57 - SE - Hysteria2/QUIC/OBFS - 36264
+hysteria2://Telegram-vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇸🇪 56 - SE - Hysteria2/QUIC/OBFS - 36264
 
-hysteria2://Telegram@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇸🇪 60 - SE - Hysteria2/QUIC/OBFS - 36264
+hysteria2://Telegram@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇸🇪 59 - SE - Hysteria2/QUIC/OBFS - 36264
 
-hysteria2://Telegram@77.110.96.201:443?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#🇸🇪 63 - SE - Hysteria2/QUIC/OBFS - 443
+hysteria2://Telegram@77.110.96.201:443?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#🇸🇪 62 - SE - Hysteria2/QUIC/OBFS - 443
 
