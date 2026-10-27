@@ -85,109 +85,48 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 24 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190 #1",
-                "🇸🇬 53 - SG - VLESS/REALITY/PBK/SID/VISION - 19825 #4",
-                "🇷🇺 57 - RU - VLESS/REALITY/PBK/VISION/UTLS - 443 #5",
-                "🇷🇺 67 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443 #6",
-                "🇷🇺 68 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443 #7",
-                "🇺🇸 89 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #8",
-                "🇺🇸 90 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #9",
-                "🇺🇸 91 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #10",
-                "🇺🇸 92 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #11",
-                "🇺🇸 93 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #12",
-                "🇺🇸 94 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #13",
-                "🇺🇸 95 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #14",
-                "🇳🇱 96 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #15",
-                "🇳🇱 97 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #16",
-                "🇳🇱 98 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #17",
-                "🇳🇱 99 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #18",
-                "🇳🇱 100 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #19",
-                "🇳🇱 101 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #20",
-                "🇳🇱 102 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #21",
-                "🇳🇱 103 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #22",
-                "🇳🇱 104 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #23",
-                "🇳🇱 105 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #24",
-                "🇳🇱 106 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #25",
-                "🇳🇱 107 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #26",
-                "🇳🇱 108 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #27",
-                "🇳🇱 109 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #28",
-                "🇳🇱 110 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #29",
-                "🇳🇱 111 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #30",
-                "🇫🇷 112 - FR - VLESS/REALITY/PBK/SID/VISION - 23576 #31",
-                "🇫🇷 113 - FR - VLESS/REALITY/PBK/SID/VISION - 23576 #32",
-                "🇺🇸 114 - US - VLESS/REALITY/PBK/SID/VISION - 23576 #33",
-                "🇸🇬 127 - SG - VLESS/REALITY/PBK/SID/VISION/UTLS - 54528 #34",
-                "🇫🇷 152 - FR - VLESS/GRPC/REALITY/PBK/SID - 51671 #35",
-                "🇸🇬 319 - SG - VLESS/REALITY/PBK/SID/UTLS - 2053 #42",
-                "🇺🇦 23 - UA - SS/AEAD - 49917 #1",
-                "🇳🇱 27 - NL - SS/AEAD - 8080 #2",
-                "🇿🇦 30 - ZA - SS/AEAD - 443 #3",
-                "🇿🇦 32 - ZA - SS/AEAD - 16233 #4",
-                "🇺🇸 33 - US - SS/AEAD - 443 #5",
-                "🇳🇱 36 - NL - SS/AEAD - 8080 #6",
-                "🇳🇱 37 - NL - SS/AEAD - 8080 #7",
-                "🇳🇱 40 - NL - SS/AEAD - 8080 #8",
-                "🇳🇱 41 - NL - SS/AEAD - 8080 #9",
-                "🇳🇱 46 - NL - SS/AEAD - 8080 #10",
-                "🇳🇱 47 - NL - SS/AEAD - 8080 #11",
-                "🇩🇪 51 - DE - SS/AEAD - 8080 #14",
-                "🇳🇱 54 - NL - SS/AEAD - 8080 #15",
-                "🇳🇱 55 - NL - SS/AEAD - 8080 #16",
-                "🇳🇱 59 - NL - SS/AEAD - 8080 #18",
-                "🇳🇱 60 - NL - SS/AEAD - 8080 #19",
-                "🇳🇱 69 - NL - SS/AEAD - 8080 #24",
-                "🇳🇱 70 - NL - SS/AEAD - 443 #25",
-                "🇳🇱 71 - NL - SS/AEAD - 443 #26",
-                "🇳🇱 72 - NL - SS/AEAD - 443 #27",
-                "🇳🇱 74 - NL - SS/AEAD - 443 #28",
-                "🇳🇱 75 - NL - SS/AEAD - 8080 #29",
-                "🇳🇱 76 - NL - SS/AEAD - 443 #30",
-                "🇳🇱 77 - NL - SS/AEAD - 443 #31",
-                "🇳🇱 82 - NL - SS/AEAD - 8080 #34",
-                "🇳🇱 83 - NL - SS/AEAD - 8080 #35",
-                "🇳🇱 84 - NL - SS/AEAD - 8080 #36",
-                "🇳🇱 86 - NL - SS/AEAD - 8080 #37",
-                "🇳🇱 93 - NL - SS/AEAD - 8080 #38",
-                "🇳🇱 94 - NL - SS/AEAD - 8080 #39",
-                "🇳🇱 95 - NL - SS/AEAD - 8080 #40",
-                "🇳🇱 96 - NL - SS/AEAD - 8080 #41",
-                "🇳🇱 97 - NL - SS/AEAD - 8080 #42",
-                "🇳🇱 98 - NL - SS/AEAD - 8080 #43",
-                "🇳🇱 99 - NL - SS/AEAD - 8080 #44",
-                "🇳🇱 100 - NL - SS/AEAD - 8080 #45",
-                "🇳🇱 102 - NL - SS/AEAD - 443 #46",
-                "🇬🇧 103 - GB - SS/AEAD - 443 #47",
-                "🇺🇸 104 - US - SS/AEAD - 443 #48",
-                "🇺🇸 105 - US - SS/AEAD - 443 #49",
-                "🇺🇸 106 - US - SS/AEAD - 443 #50",
-                "🇺🇸 107 - US - SS/AEAD - 443 #51",
-                "🇯🇵 119 - JP - SS/AEAD - 443 #52",
-                "🇯🇵 120 - JP - SS/AEAD - 8388 #53",
-                "🇺🇸 121 - US - SS/AEAD - 7307 #54",
-                "🇩🇪 122 - DE - SS/AEAD - 7001 #55",
-                "🇬🇧 123 - GB - SS/AEAD - 7001 #56",
-                "🇰🇷 125 - KR - SS/AEAD - 6697 #57",
-                "🇩🇪 126 - DE - SS/AEAD - 8008 #58",
-                "🇰🇷 127 - KR - SS/AEAD - 9090 #59",
-                "🇺🇸 128 - US - SS/AEAD - 8888 #60",
-                "🇺🇸 130 - US - SS/AEAD - 19999 #61",
-                "🇬🇧 131 - GB - SS/AEAD - 19999 #62",
-                "🇺🇸 133 - US - SS/AEAD - 19999 #63",
-                "🇺🇸 134 - US - SS/AEAD - 19999 #64",
-                "🇺🇸 135 - US - SS/AEAD - 19999 #65",
-                "🇺🇸 142 - US - SS/AEAD - 19999 #66",
-                "🇺🇸 144 - US - SS/AEAD - 19999 #67",
-                "🇺🇸 145 - US - SS/AEAD - 19999 #68",
-                "🇺🇸 149 - US - SS/AEAD - 2375 #69",
-                "🇮🇹 153 - IT - SS/AEAD - 8388 #70",
-                "🇺🇸 41 - US - Hysteria2/QUIC - 33333 #41",
-                "🇺🇸 1 - US - Trojan/TLS - 443 #1",
-                "🇹🇼 2 - TW - Trojan/TLS - 24999 #2",
-                "🇺🇸 6 - US - Trojan/TLS - 443 #3",
-                "🇭🇰 11 - HK - VMess/WS/TLS - 443 #2",
-                "🇭🇰 12 - HK - VMess/WS/TLS - 443 #3",
-                "🇬🇧 18 - GB - VMess/WS - 80 #5",
-                "🇸🇬 42 - SG - VMess - 18000 #8",
+                "Trojan 🇺🇸 TLS [443] #1",
+                "Trojan 🇺🇸 TLS [443] #2",
+                "Trojan 🇺🇸 TLS [443] #3",
+                "Trojan 🇺🇸 TLS [443] #4",
+                "Trojan 🇺🇸 TLS [443] #5",
+                "Trojan 🇺🇸 TLS [443] #6",
+                "Trojan 🇺🇸 TLS [443] #7",
+                "Trojan 🇺🇸 TLS [443] #8",
+                "Trojan 🇺🇸 TLS [443] #9",
+                "Trojan 🇺🇸 TLS [443] #10",
+                "Trojan 🇺🇸 TLS [443] #11",
+                "Trojan 🇺🇸 TLS [443] #12",
+                "Trojan 🇦🇺 TLS [443] #13",
+                "Trojan 🇮🇱 TLS [443] #14",
+                "Trojan 🇨🇱 TLS [443] #15",
+                "Trojan 🇺🇸 TLS [443] #16",
+                "Trojan 🇺🇸 TLS [443] #17",
+                "Trojan 🇺🇸 TLS [443] #18",
+                "Trojan 🇺🇸 TLS [443] #19",
+                "Trojan 🇺🇸 TLS [443] #20",
+                "Trojan 🇺🇸 TLS [443] #21",
+                "Trojan 🇺🇸 TLS [443] #22",
+                "Trojan 🇺🇸 TLS [443] #23",
+                "Trojan 🇺🇸 TLS [443] #24",
+                "Trojan 🇺🇸 TLS [443] #25",
+                "Trojan 🇺🇸 TLS [443] #26",
+                "Trojan 🇺🇸 TLS [443] #27",
+                "Trojan 🇪🇸 TLS [443] #28",
+                "Trojan 🇪🇸 TLS [443] #29",
+                "Trojan 🇪🇸 TLS [443] #30",
+                "Trojan 🇪🇸 TLS [443] #31",
+                "Trojan 🇪🇸 TLS [443] #32",
+                "Trojan 🇺🇸 TLS [443] #33",
+                "Trojan 🇺🇸 TLS [443] #34",
+                "Trojan 🇺🇸 TLS [443] #35",
+                "Trojan 🇺🇸 TLS [443] #36",
+                "SS 🇳🇱 AEAD [8080] #2",
+                "SS 🇵🇱 AEAD [443] #3",
+                "SS 🇵🇱 AEAD [443] #4",
+                "SS 🇵🇱 AEAD [443] #5",
+                "Hysteria2 🇺🇸 QUIC [443] #7",
+                "Hysteria2 🇳🇱 QUIC+OBFS [8443] #46",
                 "direct"
             ]
         },
@@ -199,217 +138,109 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 24 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190 #1",
-                "🇸🇬 53 - SG - VLESS/REALITY/PBK/SID/VISION - 19825 #4",
-                "🇷🇺 57 - RU - VLESS/REALITY/PBK/VISION/UTLS - 443 #5",
-                "🇷🇺 67 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443 #6",
-                "🇷🇺 68 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443 #7",
-                "🇺🇸 89 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #8",
-                "🇺🇸 90 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #9",
-                "🇺🇸 91 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #10",
-                "🇺🇸 92 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #11",
-                "🇺🇸 93 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #12",
-                "🇺🇸 94 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #13",
-                "🇺🇸 95 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #14",
-                "🇳🇱 96 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #15",
-                "🇳🇱 97 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #16",
-                "🇳🇱 98 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #17",
-                "🇳🇱 99 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #18",
-                "🇳🇱 100 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #19",
-                "🇳🇱 101 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #20",
-                "🇳🇱 102 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #21",
-                "🇳🇱 103 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #22",
-                "🇳🇱 104 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #23",
-                "🇳🇱 105 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #24",
-                "🇳🇱 106 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #25",
-                "🇳🇱 107 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #26",
-                "🇳🇱 108 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #27",
-                "🇳🇱 109 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #28",
-                "🇳🇱 110 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #29",
-                "🇳🇱 111 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #30",
-                "🇫🇷 112 - FR - VLESS/REALITY/PBK/SID/VISION - 23576 #31",
-                "🇫🇷 113 - FR - VLESS/REALITY/PBK/SID/VISION - 23576 #32",
-                "🇺🇸 114 - US - VLESS/REALITY/PBK/SID/VISION - 23576 #33",
-                "🇸🇬 127 - SG - VLESS/REALITY/PBK/SID/VISION/UTLS - 54528 #34",
-                "🇫🇷 152 - FR - VLESS/GRPC/REALITY/PBK/SID - 51671 #35",
-                "🇸🇬 319 - SG - VLESS/REALITY/PBK/SID/UTLS - 2053 #42",
-                "🇺🇦 23 - UA - SS/AEAD - 49917 #1",
-                "🇳🇱 27 - NL - SS/AEAD - 8080 #2",
-                "🇿🇦 30 - ZA - SS/AEAD - 443 #3",
-                "🇿🇦 32 - ZA - SS/AEAD - 16233 #4",
-                "🇺🇸 33 - US - SS/AEAD - 443 #5",
-                "🇳🇱 36 - NL - SS/AEAD - 8080 #6",
-                "🇳🇱 37 - NL - SS/AEAD - 8080 #7",
-                "🇳🇱 40 - NL - SS/AEAD - 8080 #8",
-                "🇳🇱 41 - NL - SS/AEAD - 8080 #9",
-                "🇳🇱 46 - NL - SS/AEAD - 8080 #10",
-                "🇳🇱 47 - NL - SS/AEAD - 8080 #11",
-                "🇩🇪 51 - DE - SS/AEAD - 8080 #14",
-                "🇳🇱 54 - NL - SS/AEAD - 8080 #15",
-                "🇳🇱 55 - NL - SS/AEAD - 8080 #16",
-                "🇳🇱 59 - NL - SS/AEAD - 8080 #18",
-                "🇳🇱 60 - NL - SS/AEAD - 8080 #19",
-                "🇳🇱 69 - NL - SS/AEAD - 8080 #24",
-                "🇳🇱 70 - NL - SS/AEAD - 443 #25",
-                "🇳🇱 71 - NL - SS/AEAD - 443 #26",
-                "🇳🇱 72 - NL - SS/AEAD - 443 #27",
-                "🇳🇱 74 - NL - SS/AEAD - 443 #28",
-                "🇳🇱 75 - NL - SS/AEAD - 8080 #29",
-                "🇳🇱 76 - NL - SS/AEAD - 443 #30",
-                "🇳🇱 77 - NL - SS/AEAD - 443 #31",
-                "🇳🇱 82 - NL - SS/AEAD - 8080 #34",
-                "🇳🇱 83 - NL - SS/AEAD - 8080 #35",
-                "🇳🇱 84 - NL - SS/AEAD - 8080 #36",
-                "🇳🇱 86 - NL - SS/AEAD - 8080 #37",
-                "🇳🇱 93 - NL - SS/AEAD - 8080 #38",
-                "🇳🇱 94 - NL - SS/AEAD - 8080 #39",
-                "🇳🇱 95 - NL - SS/AEAD - 8080 #40",
-                "🇳🇱 96 - NL - SS/AEAD - 8080 #41",
-                "🇳🇱 97 - NL - SS/AEAD - 8080 #42",
-                "🇳🇱 98 - NL - SS/AEAD - 8080 #43",
-                "🇳🇱 99 - NL - SS/AEAD - 8080 #44",
-                "🇳🇱 100 - NL - SS/AEAD - 8080 #45",
-                "🇳🇱 102 - NL - SS/AEAD - 443 #46",
-                "🇬🇧 103 - GB - SS/AEAD - 443 #47",
-                "🇺🇸 104 - US - SS/AEAD - 443 #48",
-                "🇺🇸 105 - US - SS/AEAD - 443 #49",
-                "🇺🇸 106 - US - SS/AEAD - 443 #50",
-                "🇺🇸 107 - US - SS/AEAD - 443 #51",
-                "🇯🇵 119 - JP - SS/AEAD - 443 #52",
-                "🇯🇵 120 - JP - SS/AEAD - 8388 #53",
-                "🇺🇸 121 - US - SS/AEAD - 7307 #54",
-                "🇩🇪 122 - DE - SS/AEAD - 7001 #55",
-                "🇬🇧 123 - GB - SS/AEAD - 7001 #56",
-                "🇰🇷 125 - KR - SS/AEAD - 6697 #57",
-                "🇩🇪 126 - DE - SS/AEAD - 8008 #58",
-                "🇰🇷 127 - KR - SS/AEAD - 9090 #59",
-                "🇺🇸 128 - US - SS/AEAD - 8888 #60",
-                "🇺🇸 130 - US - SS/AEAD - 19999 #61",
-                "🇬🇧 131 - GB - SS/AEAD - 19999 #62",
-                "🇺🇸 133 - US - SS/AEAD - 19999 #63",
-                "🇺🇸 134 - US - SS/AEAD - 19999 #64",
-                "🇺🇸 135 - US - SS/AEAD - 19999 #65",
-                "🇺🇸 142 - US - SS/AEAD - 19999 #66",
-                "🇺🇸 144 - US - SS/AEAD - 19999 #67",
-                "🇺🇸 145 - US - SS/AEAD - 19999 #68",
-                "🇺🇸 149 - US - SS/AEAD - 2375 #69",
-                "🇮🇹 153 - IT - SS/AEAD - 8388 #70",
-                "🇺🇸 41 - US - Hysteria2/QUIC - 33333 #41",
-                "🇺🇸 1 - US - Trojan/TLS - 443 #1",
-                "🇹🇼 2 - TW - Trojan/TLS - 24999 #2",
-                "🇺🇸 6 - US - Trojan/TLS - 443 #3",
-                "🇭🇰 11 - HK - VMess/WS/TLS - 443 #2",
-                "🇭🇰 12 - HK - VMess/WS/TLS - 443 #3",
-                "🇬🇧 18 - GB - VMess/WS - 80 #5",
-                "🇸🇬 42 - SG - VMess - 18000 #8"
+                "Trojan 🇺🇸 TLS [443] #1",
+                "Trojan 🇺🇸 TLS [443] #2",
+                "Trojan 🇺🇸 TLS [443] #3",
+                "Trojan 🇺🇸 TLS [443] #4",
+                "Trojan 🇺🇸 TLS [443] #5",
+                "Trojan 🇺🇸 TLS [443] #6",
+                "Trojan 🇺🇸 TLS [443] #7",
+                "Trojan 🇺🇸 TLS [443] #8",
+                "Trojan 🇺🇸 TLS [443] #9",
+                "Trojan 🇺🇸 TLS [443] #10",
+                "Trojan 🇺🇸 TLS [443] #11",
+                "Trojan 🇺🇸 TLS [443] #12",
+                "Trojan 🇦🇺 TLS [443] #13",
+                "Trojan 🇮🇱 TLS [443] #14",
+                "Trojan 🇨🇱 TLS [443] #15",
+                "Trojan 🇺🇸 TLS [443] #16",
+                "Trojan 🇺🇸 TLS [443] #17",
+                "Trojan 🇺🇸 TLS [443] #18",
+                "Trojan 🇺🇸 TLS [443] #19",
+                "Trojan 🇺🇸 TLS [443] #20",
+                "Trojan 🇺🇸 TLS [443] #21",
+                "Trojan 🇺🇸 TLS [443] #22",
+                "Trojan 🇺🇸 TLS [443] #23",
+                "Trojan 🇺🇸 TLS [443] #24",
+                "Trojan 🇺🇸 TLS [443] #25",
+                "Trojan 🇺🇸 TLS [443] #26",
+                "Trojan 🇺🇸 TLS [443] #27",
+                "Trojan 🇪🇸 TLS [443] #28",
+                "Trojan 🇪🇸 TLS [443] #29",
+                "Trojan 🇪🇸 TLS [443] #30",
+                "Trojan 🇪🇸 TLS [443] #31",
+                "Trojan 🇪🇸 TLS [443] #32",
+                "Trojan 🇺🇸 TLS [443] #33",
+                "Trojan 🇺🇸 TLS [443] #34",
+                "Trojan 🇺🇸 TLS [443] #35",
+                "Trojan 🇺🇸 TLS [443] #36",
+                "SS 🇳🇱 AEAD [8080] #2",
+                "SS 🇵🇱 AEAD [443] #3",
+                "SS 🇵🇱 AEAD [443] #4",
+                "SS 🇵🇱 AEAD [443] #5",
+                "Hysteria2 🇺🇸 QUIC [443] #7",
+                "Hysteria2 🇳🇱 QUIC+OBFS [8443] #46"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
             "interval": "30s"
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 24 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190 #1",
-            "server": "159.89.87.21",
-            "server_port": 28190,
-            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "aws.amazon.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇸🇬 53 - SG - VLESS/REALITY/PBK/SID/VISION - 19825 #4",
-            "server": "146.235.16.130",
-            "server_port": 19825,
-            "uuid": "2d1ad594-80a4-4bfb-87a6-038e39701f51",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "sg2-8sb.6121999.dpdns.org",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI",
-                    "short_id": "6ba85179e30d4fc2"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 57 - RU - VLESS/REALITY/PBK/VISION/UTLS - 443 #5",
-            "server": "94.156.181.168",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #1",
+            "server": "169.197.140.169",
             "server_port": 443,
-            "uuid": "30572b57-f5ab-4eb8-82d4-a24d399b99f6",
-            "flow": "xtls-rprx-vision",
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "math.videoticher.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU",
-                    "short_id": ""
-                },
+                "server_name": "api.discoverfreshgraduatejobsstartyourprofessionaljourney.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "edge"
+                    "fingerprint": "chrome"
                 }
             },
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇷🇺 67 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443 #6",
-            "server": "193.233.230.107",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #2",
+            "server": "169.197.140.214",
             "server_port": 443,
-            "uuid": "37ca5f34-2531-4fda-a781-20f3845fea88",
-            "flow": "xtls-rprx-vision",
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "mortardapplebirch.kilnworkshop.info",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hHor6jajmC4pqV1HSOHypVaMiE9xn8qBoE_oSO-c5x0",
-                    "short_id": "a0c58a106301b783"
-                },
+                "server_name": "courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "qq"
+                    "fingerprint": "chrome"
                 }
             },
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇷🇺 68 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443 #7",
-            "server": "94.228.167.12",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #3",
+            "server": "216.152.155.158",
             "server_port": 443,
-            "uuid": "37ca5f34-2531-4fda-a781-20f3845fea88",
-            "flow": "xtls-rprx-vision",
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "washingphonicseatable.solsticedigest.me",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY",
-                    "short_id": "c13c9bd7bd45847d"
-                },
+                "server_name": "resources.nextjobopportunityandclaimyouridealrole.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -418,20 +249,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 89 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #8",
-            "server": "15.204.97.195",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #4",
+            "server": "216.152.155.176",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "blog.nextjobopportunityandclaimyouridealrole.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -440,20 +270,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 90 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #9",
-            "server": "15.204.97.197",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #5",
+            "server": "216.152.155.23",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "courses.nextjobopportunityandclaimyouridealrole.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -462,20 +291,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 91 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #10",
-            "server": "15.204.97.198",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #6",
+            "server": "216.152.155.54",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "learn.nextjobopportunityandclaimyouridealrole.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -484,20 +312,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 92 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #11",
-            "server": "15.204.97.206",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #7",
+            "server": "216.152.155.59",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "api.nextjobopportunityandclaimyouridealrole.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -506,20 +333,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 93 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #12",
-            "server": "15.204.97.214",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #8",
+            "server": "216.152.156.212",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -528,20 +354,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 94 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #13",
-            "server": "15.204.97.216",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #9",
+            "server": "216.152.156.42",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -550,20 +375,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 95 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #14",
-            "server": "15.204.97.219",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #10",
+            "server": "216.152.156.49",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -572,20 +396,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 96 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #15",
-            "server": "51.158.206.103",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #11",
+            "server": "216.152.156.65",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -594,20 +417,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 97 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #16",
-            "server": "51.158.206.12",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #12",
+            "server": "216.152.156.81",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "www.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -616,20 +438,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 98 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #17",
-            "server": "51.158.206.19",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇦🇺 TLS [443] #13",
+            "server": "45.63.30.142",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "connectwithemployerstohireyouridealteam.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -638,20 +459,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 99 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #18",
-            "server": "51.158.206.20",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇮🇱 TLS [443] #14",
+            "server": "64.176.163.182",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "exploreeducationsectoropportunitiestodayandadvancecareers.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -660,20 +480,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 100 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #19",
-            "server": "51.158.206.25",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇨🇱 TLS [443] #15",
+            "server": "64.176.7.205",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "advanceyouremploymentskillsandcareerdevelopmenthub.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -682,20 +501,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 101 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #20",
-            "server": "51.158.206.26",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #16",
+            "server": "66.163.112.121",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "www.unlockyourfuturefindyourperfectcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -704,20 +522,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 102 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #21",
-            "server": "51.158.206.29",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #17",
+            "server": "66.163.112.13",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "blog.unlockyourfuturefindyourperfectcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -726,20 +543,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 103 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #22",
-            "server": "51.158.206.34",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #18",
+            "server": "66.163.112.142",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "cdn.unlockyourfuturefindyourperfectcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -748,20 +564,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 104 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #23",
-            "server": "51.158.206.80",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #19",
+            "server": "66.163.112.171",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "learn.unlockyourfuturefindyourperfectcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -770,20 +585,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 105 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #24",
-            "server": "51.158.206.86",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #20",
+            "server": "66.163.112.242",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "resources.unlockyourfuturefindyourperfectcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -792,20 +606,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 106 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #25",
-            "server": "51.158.206.87",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #21",
+            "server": "66.163.112.76",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "api.unlockyourfuturefindyourperfectcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -814,20 +627,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 107 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #26",
-            "server": "51.158.206.8",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #22",
+            "server": "66.163.114.106",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "www.findconnectwithemployersandbuildprofessionalnetwork.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -836,20 +648,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 108 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #27",
-            "server": "51.158.206.93",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #23",
+            "server": "66.163.114.114",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "learn.findconnectwithemployersandbuildprofessionalnetwork.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -858,20 +669,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 109 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576 #28",
-            "server": "51.158.206.96",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #24",
+            "server": "66.163.114.126",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "resources.findconnectwithemployersandbuildprofessionalnetwork.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -880,20 +690,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 110 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #29",
-            "server": "51.158.206.97",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #25",
+            "server": "66.163.114.132",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "courses.findconnectwithemployersandbuildprofessionalnetwork.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -902,20 +711,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇳🇱 111 - NL - VLESS/REALITY/PBK/SID/VISION - 23576 #30",
-            "server": "51.158.206.98",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #26",
+            "server": "66.163.114.166",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "blog.findconnectwithemployersandbuildprofessionalnetwork.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -924,20 +732,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇫🇷 112 - FR - VLESS/REALITY/PBK/SID/VISION - 23576 #31",
-            "server": "62.210.91.10",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #27",
+            "server": "66.163.114.245",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "findconnectwithemployersandbuildprofessionalnetwork.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -946,20 +753,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇫🇷 113 - FR - VLESS/REALITY/PBK/SID/VISION - 23576 #32",
-            "server": "62.210.91.2",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇪🇸 TLS [443] #28",
+            "server": "66.163.118.131",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "www.discovergreatjobsandadvanceyourcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -968,20 +774,19 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇺🇸 114 - US - VLESS/REALITY/PBK/SID/VISION - 23576 #33",
-            "server": "ww13.levikogjgfdd.ir",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇪🇸 TLS [443] #29",
+            "server": "66.163.118.244",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "fuck.rkn",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                },
+                "server_name": "api.discovergreatjobsandadvanceyourcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -990,571 +795,193 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇸🇬 127 - SG - VLESS/REALITY/PBK/SID/VISION/UTLS - 54528 #34",
-            "server": "funagfrdfs.alixxplay.com",
-            "server_port": 54528,
-            "uuid": "57beeeb0-03fc-4fc9-94da-7604488a7134",
-            "flow": "xtls-rprx-vision",
+            "type": "trojan",
+            "tag": "Trojan 🇪🇸 TLS [443] #30",
+            "server": "66.163.118.244",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "www.apple.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo",
-                    "short_id": "54cca3c1c1c7"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "ios"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇫🇷 152 - FR - VLESS/GRPC/REALITY/PBK/SID - 51671 #35",
-            "server": "152.228.139.33",
-            "server_port": 51671,
-            "uuid": "75cc7568-abb0-46a8-88be-8137d3c647d4",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.sony.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU",
-                    "short_id": "2fed44d8c59f7e71"
-                },
+                "server_name": "api.discovergreatjobsandadvanceyourcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
             },
-            "transport": {
-                "type": "grpc",
-                "service_name": "grpc_common3"
-            }
+            "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇸🇬 319 - SG - VLESS/REALITY/PBK/SID/UTLS - 2053 #42",
-            "server": "45.132.75.213",
-            "server_port": 2053,
-            "uuid": "f46182d1-e13b-47d3-97e2-fa5426a93e7c",
-            "flow": "",
+            "type": "trojan",
+            "tag": "Trojan 🇪🇸 TLS [443] #31",
+            "server": "66.163.118.251",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "www.cloudflare.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY",
-                    "short_id": "cd7e85995ae2afc9"
-                },
+                "server_name": "resources.discovergreatjobsandadvanceyourcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "trojan",
+            "tag": "Trojan 🇪🇸 TLS [443] #32",
+            "server": "66.163.118.62",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "tls": {
+                "enabled": true,
+                "server_name": "courses.discovergreatjobsandadvanceyourcareer.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #33",
+            "server": "66.163.122.113",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "tls": {
+                "enabled": true,
+                "server_name": "api.searchnationwidecareerchangehelperandguidancetoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #34",
+            "server": "66.163.122.25",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn.searchnationwidecareerchangehelperandguidancetoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #35",
+            "server": "66.163.122.7",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.searchnationwidecareerchangehelperandguidancetoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "trojan",
+            "tag": "Trojan 🇺🇸 TLS [443] #36",
+            "server": "66.163.122.81",
+            "server_port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "tls": {
+                "enabled": true,
+                "server_name": "courses.searchnationwidecareerchangehelperandguidancetoday.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             },
             "transport": {}
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇦 23 - UA - SS/AEAD - 49917 #1",
-            "server": "staging.lastilhame.monster",
-            "server_port": 49917,
-            "method": "chacha20-ietf-poly1305",
-            "password": "G9ZuLN5DE9qqouTZwYUcvYsDJx8gyL1nCu3N7yRZFjPmYKhzSi8GkpVuexmTHAz2uvcErKkex1K2ceR2GH3L444HRNnN1YpP"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 27 - NL - SS/AEAD - 8080 #2",
-            "server": "193.29.139.212",
+            "tag": "SS 🇳🇱 AEAD [8080] #2",
+            "server": "193.29.139.234",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "QCXDxuDlTTMD7jtgHUjIoj"
+            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "type": "shadowsocks",
-            "tag": "🇿🇦 30 - ZA - SS/AEAD - 443 #3",
-            "server": "20.164.41.194",
+            "tag": "SS 🇵🇱 AEAD [443] #3",
+            "server": "54.36.174.134",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "UQFMIrjfuCgElfpl"
+            "password": "6heexyz"
         },
         {
             "type": "shadowsocks",
-            "tag": "🇿🇦 32 - ZA - SS/AEAD - 16233 #4",
-            "server": "102.133.165.160",
-            "server_port": 16233,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Xsy8Ox4yOV3xLlpxtjzs3X"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 33 - US - SS/AEAD - 443 #5",
-            "server": "198.98.53.130",
+            "tag": "SS 🇵🇱 AEAD [443] #4",
+            "server": "pl134.vpnbook.com",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "eDfN7SODQceIOmIAbtJJtK"
+            "password": "6heexyz"
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 36 - NL - SS/AEAD - 8080 #6",
-            "server": "193.29.139.132",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k1dBOmOB4oqi7Ump37a1bQ"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 37 - NL - SS/AEAD - 8080 #7",
-            "server": "193.29.139.147",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k1dBOmOB4oqi7Ump37a1bQ"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 40 - NL - SS/AEAD - 8080 #8",
-            "server": "82.38.31.176",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k1dBOmOB4oqi7Ump37a1bQ"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 41 - NL - SS/AEAD - 8080 #9",
-            "server": "82.38.31.179",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k1dBOmOB4oqi7Ump37a1bQ"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 46 - NL - SS/AEAD - 8080 #10",
-            "server": "82.38.31.205",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k1dBOmOB4oqi7Ump37a1bQ"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 47 - NL - SS/AEAD - 8080 #11",
-            "server": "82.38.31.208",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k1dBOmOB4oqi7Ump37a1bQ"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 51 - DE - SS/AEAD - 8080 #14",
-            "server": "178.83.185.156",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 54 - NL - SS/AEAD - 8080 #15",
-            "server": "193.29.139.151",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 55 - NL - SS/AEAD - 8080 #16",
-            "server": "193.29.139.179",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 59 - NL - SS/AEAD - 8080 #18",
-            "server": "193.29.139.202",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 60 - NL - SS/AEAD - 8080 #19",
-            "server": "193.29.139.204",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 69 - NL - SS/AEAD - 8080 #24",
-            "server": "82.38.31.155",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 70 - NL - SS/AEAD - 443 #25",
-            "server": "82.38.31.159",
+            "tag": "SS 🇵🇱 AEAD [443] #5",
+            "server": "pl140.vpnbook.com",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 71 - NL - SS/AEAD - 443 #26",
-            "server": "82.38.31.162",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 72 - NL - SS/AEAD - 443 #27",
-            "server": "82.38.31.169",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 74 - NL - SS/AEAD - 443 #28",
-            "server": "82.38.31.170",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 75 - NL - SS/AEAD - 8080 #29",
-            "server": "82.38.31.171",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 76 - NL - SS/AEAD - 443 #30",
-            "server": "82.38.31.174",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 77 - NL - SS/AEAD - 443 #31",
-            "server": "82.38.31.175",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 82 - NL - SS/AEAD - 8080 #34",
-            "server": "82.38.31.2",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 83 - NL - SS/AEAD - 8080 #35",
-            "server": "82.38.31.34",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 84 - NL - SS/AEAD - 8080 #36",
-            "server": "82.38.31.35",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 86 - NL - SS/AEAD - 8080 #37",
-            "server": "82.38.31.3",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 93 - NL - SS/AEAD - 8080 #38",
-            "server": "82.38.31.54",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 94 - NL - SS/AEAD - 8080 #39",
-            "server": "82.38.31.61",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 95 - NL - SS/AEAD - 8080 #40",
-            "server": "82.38.31.62",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 96 - NL - SS/AEAD - 8080 #41",
-            "server": "82.38.31.66",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 97 - NL - SS/AEAD - 8080 #42",
-            "server": "82.38.31.69",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 98 - NL - SS/AEAD - 8080 #43",
-            "server": "82.38.31.7",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 99 - NL - SS/AEAD - 8080 #44",
-            "server": "82.38.31.82",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 100 - NL - SS/AEAD - 8080 #45",
-            "server": "82.38.31.9",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 102 - NL - SS/AEAD - 443 #46",
-            "server": "158.173.20.208",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇧 103 - GB - SS/AEAD - 443 #47",
-            "server": "141.98.101.181",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 104 - US - SS/AEAD - 443 #48",
-            "server": "156.146.38.167",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 105 - US - SS/AEAD - 443 #49",
-            "server": "156.146.38.168",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 106 - US - SS/AEAD - 443 #50",
-            "server": "156.146.38.169",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 107 - US - SS/AEAD - 443 #51",
-            "server": "156.146.38.170",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 119 - JP - SS/AEAD - 443 #52",
-            "server": "84.247.155.196",
-            "server_port": 443,
-            "method": "aes-256-gcm",
-            "password": "3eOFeNssde7PYYMv"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 120 - JP - SS/AEAD - 8388 #53",
-            "server": "154.36.158.197",
-            "server_port": 8388,
-            "method": "aes-256-gcm",
-            "password": "BeaUf9c0AEWH40Pu"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 121 - US - SS/AEAD - 7307 #54",
-            "server": "15.204.246.132",
-            "server_port": 7307,
-            "method": "aes-256-gcm",
-            "password": "FoOiGlkAA9yPEGP"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 122 - DE - SS/AEAD - 7001 #55",
-            "server": "213.202.208.199",
-            "server_port": 7001,
-            "method": "aes-256-gcm",
-            "password": "RexnBgU7EV5ADxG"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇧 123 - GB - SS/AEAD - 7001 #56",
-            "server": "94.156.250.148",
-            "server_port": 7001,
-            "method": "aes-256-gcm",
-            "password": "RexnBgU7EV5ADxG"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇰🇷 125 - KR - SS/AEAD - 6697 #57",
-            "server": "141.164.45.187",
-            "server_port": 6697,
-            "method": "aes-256-gcm",
-            "password": "TEzjfAYq2IjtuoS"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇩🇪 126 - DE - SS/AEAD - 8008 #58",
-            "server": "185.226.172.8",
-            "server_port": 8008,
-            "method": "aes-256-gcm",
-            "password": "XKFKl2rULjIp74"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇰🇷 127 - KR - SS/AEAD - 9090 #59",
-            "server": "141.164.45.187",
-            "server_port": 9090,
-            "method": "aes-256-gcm",
-            "password": "Y6R9pAtvxxzmGC"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 128 - US - SS/AEAD - 8888 #60",
-            "server": "15.204.246.107",
-            "server_port": 8888,
-            "method": "aes-256-gcm",
-            "password": "Y6R9pAtvxxzmGC"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 130 - US - SS/AEAD - 19999 #61",
-            "server": "202.50.253.18",
-            "server_port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇧 131 - GB - SS/AEAD - 19999 #62",
-            "server": "185.176.204.18",
-            "server_port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 133 - US - SS/AEAD - 19999 #63",
-            "server": "202.50.253.27",
-            "server_port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 134 - US - SS/AEAD - 19999 #64",
-            "server": "202.50.253.45",
-            "server_port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 135 - US - SS/AEAD - 19999 #65",
-            "server": "202.50.253.63",
-            "server_port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 142 - US - SS/AEAD - 19999 #66",
-            "server": "202.50.253.36",
-            "server_port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 144 - US - SS/AEAD - 19999 #67",
-            "server": "202.50.253.54",
-            "server_port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 145 - US - SS/AEAD - 19999 #68",
-            "server": "202.50.253.81",
-            "server_port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 149 - US - SS/AEAD - 2375 #69",
-            "server": "15.204.247.124",
-            "server_port": 2375,
-            "method": "aes-256-gcm",
-            "password": "faBAoD54k87UJG7"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇹 153 - IT - SS/AEAD - 8388 #70",
-            "server": "57.131.48.45",
-            "server_port": 8388,
-            "method": "aes-256-gcm",
-            "password": "itzvpn@321"
+            "password": "6heexyz"
         },
         {
             "type": "hysteria2",
-            "tag": "🇺🇸 41 - US - Hysteria2/QUIC - 33333 #41",
-            "server": "hy2.123266.xyz",
-            "server_port": 33333,
-            "password": "bce6c821-200d-421f-bf3d-7159e5246ea0",
+            "tag": "Hysteria2 🇺🇸 QUIC [443] #7",
+            "server": "217.60.72.225",
+            "server_port": 443,
+            "password": "329e13e4-ee7c-4802-ac72-5fcab79c2402",
             "tls": {
                 "enabled": true,
-                "server_name": "hy2.123266.xyz",
+                "server_name": "forshynewh.duckdns.org",
                 "insecure": false,
                 "alpn": [
                     "h3"
@@ -1563,156 +990,23 @@
             "disable_chrome_parrot": true
         },
         {
-            "type": "trojan",
-            "tag": "🇺🇸 1 - US - Trojan/TLS - 443 #1",
-            "server": "www.findlocaljobnetworkandbuildcommunityconnections.com",
-            "server_port": 443,
-            "password": "242a3d8eee5e4ed1a6bfa4141d549a25",
+            "type": "hysteria2",
+            "tag": "Hysteria2 🇳🇱 QUIC+OBFS [8443] #46",
+            "server": "147.45.149.88",
+            "server_port": 8443,
+            "password": "NL2026hy",
             "tls": {
                 "enabled": true,
-                "server_name": "www.findlocaljobnetworkandbuildcommunityconnections.com",
+                "server_name": "nl.nobelchat.ru",
                 "insecure": false,
                 "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                    "h3"
+                ]
             },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇹🇼 2 - TW - Trojan/TLS - 24999 #2",
-            "server": "tjtw.m2k699.com",
-            "server_port": 24999,
-            "password": "29086912-33e4-4e06-ba2b-60f1a195864f",
-            "tls": {
-                "enabled": true,
-                "server_name": "tjtw.m2k699.com",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 6 - US - Trojan/TLS - 443 #3",
-            "server": "216.106.186.32",
-            "server_port": 443,
-            "password": "dba20dcb635e430fa4d3bfc303a149d2",
-            "tls": {
-                "enabled": true,
-                "server_name": "blog.findlocaljobnetworkandbuildcommunityconnections.com",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vmess",
-            "tag": "🇭🇰 11 - HK - VMess/WS/TLS - 443 #2",
-            "server": "lcv8v9l7oyamxxfz.v.3dns.vip",
-            "server_port": 443,
-            "uuid": "f23bb427c1f94373876c2f43e9f790f3",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/ws-vmess",
-                "headers": {
-                    "Host": "lcv8v9l7oyamxxfz.v.3dns.vip"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": null,
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇭🇰 12 - HK - VMess/WS/TLS - 443 #3",
-            "server": "lcv8v9l7oyamxxfz.v.3dns.vip",
-            "server_port": 443,
-            "uuid": "f23bb427-c1f9-4373-876c-2f43e9f790f3",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/ws-vmess",
-                "headers": {
-                    "Host": "lcv8v9l7oyamxxfz.v.3dns.vip"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": null,
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇬🇧 18 - GB - VMess/WS - 80 #5",
-            "server": "57.129.132.223",
-            "server_port": 80,
-            "uuid": "a25cbf11-2908-4a1b-a3a8-9a571777dca3",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/vmess/",
-                "headers": {
-                    "Host": "google.com"
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇸🇬 42 - SG - VMess - 18000 #8",
-            "server": "ww11.levikogjgfdd.ir",
-            "server_port": 18000,
-            "uuid": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
+            "disable_chrome_parrot": true,
+            "obfs": {
+                "type": "salamander",
+                "password": "SalamanderNL2026"
             }
         }
     ],
