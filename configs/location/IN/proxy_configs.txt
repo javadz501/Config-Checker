@@ -4,11 +4,11 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#🇮🇳 393 - IN - VLESS/REALITY/PBK/SID/UTLS - 2053
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#🇮🇳 306 - IN - VLESS/WS/TLS/UTLS - 443
 
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇮🇳 2712 - IN - VLESS/REALITY/PBK/SID/VISION/UTLS - 40443
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#🇮🇳 399 - IN - VLESS/REALITY/PBK/SID/UTLS - 2053
 
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇮🇳 3639 - IN - VLESS/REALITY/PBK/SID/VISION/UTLS - 40443
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇮🇳 2699 - IN - VLESS/REALITY/PBK/SID/VISION/UTLS - 40443
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 359 - IN - SS/AEAD - 7002
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇮🇳 3600 - IN - VLESS/REALITY/PBK/SID/VISION/UTLS - 40443
 

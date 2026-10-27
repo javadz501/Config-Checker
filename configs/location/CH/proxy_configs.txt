@@ -4,5 +4,7 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭 170 - CH - SS/AEAD - 8388
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@176.65.144.42:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#🇨🇭 62 - CH - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭 169 - CH - SS/AEAD - 8388
 

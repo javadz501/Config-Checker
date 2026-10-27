@@ -4,11 +4,7 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@pl.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.peregrine-sub.net&sid=7b6803a79bba5c52#🇵🇱 961 - PL - VLESS/REALITY/PBK/SID/VISION/UTLS - 1443
-
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@pl.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.peregrine-sub.net&sid=7b6803a79bba5c52#🇵🇱 962 - PL - VLESS/REALITY/PBK/SID/VISION/UTLS - 1443
-
-vless://f259a2e5-fd8d-4db9-a3ac-6b26322cffa9@31.59.143.242:34451?mode=auto&path=/ShamanXHTTP2026&security=tls&encryption=none&insecure=0&host=pl-cfe6b10b7f.shamanapp.online&fp=chrome&type=xhttp&allowInsecure=0&sni=pl-cfe6b10b7f.shamanapp.online#🇵🇱 3777 - PL - VLESS/XHTTP/TLS/UTLS - 34451
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=2.26.6.1#🇵🇱 2846 - PL - VLESS/TLS/UTLS - 2087
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#🇵🇱 41 - PL - SS/AEAD - 443
 
@@ -20,5 +16,5 @@ hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sn
 
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1#🇵🇱 71 - PL - Hysteria2/QUIC - 443
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HtfCfh7EgOTY5IC0gUEwgLSBWTWVzcy9XUyAtIDgwIiwgImFkZCI6ICI1NC4zNy4xMzEuMTI2IiwgInBvcnQiOiA4MCwgImlkIjogIjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIiwgIm5hbWUiOiAi8J+Hq/Cfh7cgfCBAV2hpdGVETlMgfCBGUjE5N3wxLjRNQi9zfEROU09LfEdQVOKBui1QTCJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HtfCfh7EgOTgzIC0gUEwgLSBWTWVzcy9XUyAtIDgwIiwgImFkZCI6ICI1NC4zNy4xMzEuMTI2IiwgInBvcnQiOiA4MCwgImlkIjogIjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIiwgIm5hbWUiOiAi8J+Hq/Cfh7cgfCBAV2hpdGVETlMgfCBGUjE5N3wxLjRNQi9zfEROU09LfEdQVOKBui1QTCJ9
 
