@@ -4,13 +4,5 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://5c331d12-f0b0-48d8-ba6e-ec945ef889ea@188.241.241.36:8443?security=reality&encryption=none&pbk=GUqm415-hOCPsm5OJnca6iwSmgMUbX_UmEqWT9Ch60I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d100.relay.logicnova.ru#🇷🇴 1473 - RO - VLESS/REALITY/PBK/VISION/UTLS - 8443
-
-vless://5c331d12-f0b0-48d8-ba6e-ec945ef889ea@188.241.241.36:8443?security=reality&encryption=none&pbk=GUqm415-hOCPsm5OJnca6iwSmgMUbX_UmEqWT9Ch60I&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d100.relay.logicnova.ru#🇷🇴 1474 - RO - VLESS/REALITY/PBK/VISION/UTLS - 8443
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 121 - RO - SS/AEAD - 443
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#🇷🇴 127 - RO - SS/AEAD - 64546
-
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#🇷🇴 49 - RO - Hysteria2/QUIC/OBFS - 443
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#🇷🇴 53 - RO - Hysteria2/QUIC/OBFS - 443
 
