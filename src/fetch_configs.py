@@ -2,6 +2,7 @@ import os
 import time
 import json
 import logging
+from urllib.parse import quote, urlparse
 from datetime import datetime, timedelta, timezone
 from typing import List, Dict, Optional, Set
 import requests
@@ -110,6 +111,85 @@ class ConfigFetcher:
                 return decoded
         return text
 
+    def is_github_repository_url(self, url: str) -> bool:
+        parsed = urlparse(url)
+        if parsed.netloc.lower() not in {"github.com", "www.github.com"}:
+            return False
+        parts = [part for part in parsed.path.strip("/").split("/") if part]
+        return len(parts) == 2
+
+    def fetch_github_repository_text(self, url: str) -> Optional[str]:
+        """Discover and fetch likely proxy-config files from a GitHub repository."""
+        parsed = urlparse(url)
+        parts = [part for part in parsed.path.strip("/").split("/") if part]
+        if len(parts) != 2:
+            return None
+        owner, repo = parts
+        headers = {"Accept": "application/vnd.github+json"}
+        token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+        if token:
+            headers["Authorization"] = f"Bearer {token}"
+
+        try:
+            repo_response = self.session.get(
+                f"https://api.github.com/repos/{owner}/{repo}",
+                headers=headers, timeout=self.config.REQUEST_TIMEOUT
+            )
+            repo_response.raise_for_status()
+            branch = repo_response.json().get("default_branch", "main")
+            tree_response = self.session.get(
+                f"https://api.github.com/repos/{owner}/{repo}/git/trees/{quote(branch, safe='')}",
+                params={"recursive": "1"}, headers=headers,
+                timeout=self.config.REQUEST_TIMEOUT
+            )
+            tree_response.raise_for_status()
+            tree = tree_response.json().get("tree", [])
+        except (requests.RequestException, ValueError) as exc:
+            logger.warning(f"Could not discover config files in GitHub repository {owner}/{repo}: {exc}")
+            return None
+
+        extensions = (".txt", ".yaml", ".yml", ".json", ".conf", ".list", ".sub")
+        excluded = {".github", "docs", "assets", "images", "test", "tests", "readme", "license", "examples"}
+        candidates = []
+        keywords = ("config", "proxy", "v2ray", "vless", "vmess", "sub", "all", "base64",
+                    "clash", "mihomo", "vpn", "node", "mix", "server", "free")
+        for item in tree:
+            path = item.get("path", "")
+            lower = path.lower()
+            name = lower.rsplit("/", 1)[-1]
+            if item.get("type") != "blob" or not lower.endswith(extensions):
+                continue
+            if any(part in excluded for part in lower.split("/")) or item.get("size", 0) > 2_000_000:
+                continue
+            if not any(word in lower for word in keywords):
+                continue
+            score = sum(2 for word in ("all", "sub", "base64", "mix", "proxy", "config", "v2ray", "vpn", "server", "free") if word in name)
+            candidates.append((score, path, item.get("size", 0)))
+        candidates.sort(key=lambda item: (-item[0], item[2], item[1]))
+        selected = candidates[:10]
+        if not selected:
+            logger.warning(f"No likely config files found in GitHub repository {owner}/{repo}")
+            return None
+
+        texts = []
+        total_bytes = 0
+        for _, path, _ in selected:
+            raw_url = f"https://raw.githubusercontent.com/{owner}/{repo}/{quote(branch, safe='')}/{quote(path, safe='/')}"
+            try:
+                response = self.session.get(raw_url, timeout=self.config.REQUEST_TIMEOUT)
+                response.raise_for_status()
+                content = response.text
+                if content and not content.lstrip().lower().startswith(("<!doctype html", "<html")):
+                    total_bytes += len(content.encode("utf-8", errors="ignore"))
+                    if total_bytes > 5_000_000:
+                        logger.warning(f"Stopped reading {owner}/{repo}: 5 MB source limit reached")
+                        break
+                    texts.append(content)
+                    logger.info(f"Fetched GitHub config candidate: {owner}/{repo}/{path}")
+            except requests.RequestException as exc:
+                logger.warning(f"Failed to fetch {owner}/{repo}/{path}: {exc}")
+        return "\\n".join(texts) if texts else None
+
     def fetch_configs_from_source(self, channel: ChannelConfig) -> List[str]:
         configs: List[str] = []
         channel.metrics.total_configs = 0
@@ -126,15 +206,22 @@ class ConfigFetcher:
                 self.config.update_channel_stats(channel, True, response_time)
             return configs
 
-        response = self.fetch_with_retry(channel.url)
-        if not response:
-            self.config.update_channel_stats(channel, False)
-            return configs
+        if self.is_github_repository_url(channel.url):
+            source_text = self.fetch_github_repository_text(channel.url)
+            if not source_text:
+                self.config.update_channel_stats(channel, False)
+                return configs
+        else:
+            response = self.fetch_with_retry(channel.url)
+            if not response:
+                self.config.update_channel_stats(channel, False)
+                return configs
+            source_text = response.text
 
         response_time = time.time() - start_time
         
         if channel.is_telegram:
-            soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(source_text, 'html.parser')
             messages = soup.find_all('div', class_='tgme_widget_message_text')
             
             sorted_messages = sorted(
@@ -174,7 +261,7 @@ class ConfigFetcher:
                 channel.metrics.total_configs += len(found_configs)
                 configs.extend(found_configs)
         else:
-            text = response.text
+            text = source_text
             text_parts = text.split()
             
             for part in text_parts:
