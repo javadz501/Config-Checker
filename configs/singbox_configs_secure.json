@@ -85,6 +85,7 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
+                "VLESS 🇱🇻 REALITY+PBK+SID+VISION+UTLS [443] #1",
                 "Trojan 🇺🇸 TLS [443] #1",
                 "Trojan 🇺🇸 TLS [443] #2",
                 "Trojan 🇺🇸 TLS [443] #3",
@@ -121,12 +122,13 @@
                 "Trojan 🇺🇸 TLS [443] #34",
                 "Trojan 🇺🇸 TLS [443] #35",
                 "Trojan 🇺🇸 TLS [443] #36",
+                "SS 🇩🇪 2022+BLAKE3 [53185] #1",
                 "SS 🇳🇱 AEAD [8080] #2",
                 "SS 🇵🇱 AEAD [443] #3",
                 "SS 🇵🇱 AEAD [443] #4",
                 "SS 🇵🇱 AEAD [443] #5",
-                "Hysteria2 🇺🇸 QUIC [443] #7",
-                "Hysteria2 🇳🇱 QUIC+OBFS [8443] #46",
+                "Hysteria2 🇺🇸 QUIC [443] #8",
+                "Hysteria2 🇳🇱 QUIC+OBFS [8443] #47",
                 "direct"
             ]
         },
@@ -138,6 +140,7 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
+                "VLESS 🇱🇻 REALITY+PBK+SID+VISION+UTLS [443] #1",
                 "Trojan 🇺🇸 TLS [443] #1",
                 "Trojan 🇺🇸 TLS [443] #2",
                 "Trojan 🇺🇸 TLS [443] #3",
@@ -174,16 +177,39 @@
                 "Trojan 🇺🇸 TLS [443] #34",
                 "Trojan 🇺🇸 TLS [443] #35",
                 "Trojan 🇺🇸 TLS [443] #36",
+                "SS 🇩🇪 2022+BLAKE3 [53185] #1",
                 "SS 🇳🇱 AEAD [8080] #2",
                 "SS 🇵🇱 AEAD [443] #3",
                 "SS 🇵🇱 AEAD [443] #4",
                 "SS 🇵🇱 AEAD [443] #5",
-                "Hysteria2 🇺🇸 QUIC [443] #7",
-                "Hysteria2 🇳🇱 QUIC+OBFS [8443] #46"
+                "Hysteria2 🇺🇸 QUIC [443] #8",
+                "Hysteria2 🇳🇱 QUIC+OBFS [8443] #47"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
             "interval": "30s"
+        },
+        {
+            "type": "vless",
+            "tag": "VLESS 🇱🇻 REALITY+PBK+SID+VISION+UTLS [443] #1",
+            "server": "195.123.213.28",
+            "server_port": 443,
+            "uuid": "02fcc1a4-ee90-4970-8bbb-4ffaa8109d24",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo",
+                    "short_id": "5c256336e3b673fa"
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
         },
         {
             "type": "trojan",
@@ -943,6 +969,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "SS 🇩🇪 2022+BLAKE3 [53185] #1",
+            "server": "91.107.128.44",
+            "server_port": 53185,
+            "method": "2022-blake3-aes-256-gcm",
+            "password": "U/jVh1z5NQ0cFCiCeLLxNAFBjmLBo/ECQ0dICfRFLbQ=:cZkXr9v4dFpHUetNse9xo72JumvR4N2GLz3bxiEh6Rk="
+        },
+        {
+            "type": "shadowsocks",
             "tag": "SS 🇳🇱 AEAD [8080] #2",
             "server": "193.29.139.234",
             "server_port": 8080,
@@ -975,7 +1009,7 @@
         },
         {
             "type": "hysteria2",
-            "tag": "Hysteria2 🇺🇸 QUIC [443] #7",
+            "tag": "Hysteria2 🇺🇸 QUIC [443] #8",
             "server": "217.60.72.225",
             "server_port": 443,
             "password": "329e13e4-ee7c-4802-ac72-5fcab79c2402",
@@ -991,7 +1025,7 @@
         },
         {
             "type": "hysteria2",
-            "tag": "Hysteria2 🇳🇱 QUIC+OBFS [8443] #46",
+            "tag": "Hysteria2 🇳🇱 QUIC+OBFS [8443] #47",
             "server": "147.45.149.88",
             "server_port": 8443,
             "password": "NL2026hy",

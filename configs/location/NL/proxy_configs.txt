@@ -30,11 +30,7 @@ hysteria2://EkF2Yw0Lc7@72.56.16.243:443?insecure=1&sni=hys34.wba-pn.ru#Hysteria2
 
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443?insecure=1&sni=hys34.wba-pn.ru#Hysteria2 🇳🇱 QUIC [443]
 
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=t.me#Hysteria2 🇳🇱 QUIC+OBFS [8443]
-
 hysteria2://NL2026hy@147.45.149.88:8443?obfs=salamander&obfs-password=SalamanderNL2026&sni=nl.nobelchat.ru#Hysteria2 🇳🇱 QUIC+OBFS [8443]
 
 hysteria2://OD6gGbGU9a@195.133.24.124:443?sni=hys26.wba-pn.ru#Hysteria2 🇳🇱 QUIC [443]
-
-hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?sni=hys26.wba-pn.ru#Hysteria2 🇳🇱 QUIC [443]
 

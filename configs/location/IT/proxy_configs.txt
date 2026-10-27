@@ -6,3 +6,5 @@
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@130.78.190.163:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇮🇹 REALITY+PBK+SID+VISION+UTLS [443]
 
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@ee.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇮🇹 REALITY+PBK+SID+VISION+UTLS [443]
+

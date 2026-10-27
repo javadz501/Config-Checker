@@ -64,6 +64,8 @@ trojan://0y7hid61k3k2vuy1@104.21.65.43:2087?security=tls&type=ws&host=uwu.dianaw
 
 trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?security=tls&type=ws&host=uwu.dianaw.cc.cd&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&sni=uwu.dianaw.cc.cd&alpn=h2&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&allowInsecure=0&insecure=0#Trojan 🇺🇸 WS+TLS+UTLS [2087]
 
+hysteria2://2b70632e-476c-44ee-bed6-c8e4d4f8fe9b@us01zl.poke-mon.xyz:20000?insecure=1&sni=bing.com#Hysteria2 🇺🇸 QUIC [20000]
+
 hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynewh.duckdns.org#Hysteria2 🇺🇸 QUIC [443]
 
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xby.mangshe.xyz:2060?insecure=1&sni=xby.mangshe.xyz#Hysteria2 🇺🇸 QUIC [2060]

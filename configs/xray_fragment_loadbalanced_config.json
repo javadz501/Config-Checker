@@ -3120,10 +3120,10 @@
       "settings": {
         "servers": [
           {
-            "address": "51.38.71.51",
-            "port": 2083,
+            "address": "91.107.128.44",
+            "port": 53185,
             "method": "2022-blake3-aes-256-gcm",
-            "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho=",
+            "password": "U/jVh1z5NQ0cFCiCeLLxNAFBjmLBo/ECQ0dICfRFLbQ=:cZkXr9v4dFpHUetNse9xo72JumvR4N2GLz3bxiEh6Rk=",
             "level": 8
           }
         ]
