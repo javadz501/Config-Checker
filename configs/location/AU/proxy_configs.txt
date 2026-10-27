@@ -4,5 +4,5 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-trojan://Trojan@82164024@au.tronsg.com:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#🇦🇺 730 - AU - Trojan/TLS/UTLS - 443
+trojan://Trojan@82164024@au.tronsg.com:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#🇦🇺 712 - AU - Trojan/TLS/UTLS - 443
 
