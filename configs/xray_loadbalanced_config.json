@@ -93,37 +93,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "195.123.213.28",
-            "port": 443,
-            "users": [
-              {
-                "id": "02fcc1a4-ee90-4970-8bbb-4ffaa8109d24",
-                "flow": "xtls-rprx-vision",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "www.cloudflare.com",
-          "publicKey": "NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo",
-          "password": "NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo",
-          "shortId": "5c256336e3b673fa",
-          "fingerprint": "chrome"
-        }
-      },
-      "tag": "proxy-2"
-    },
-    {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
             "address": "45.43.79.92",
             "port": 443,
             "users": [
@@ -148,7 +117,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-3"
+      "tag": "proxy-2"
     },
     {
       "protocol": "vless",
@@ -179,7 +148,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-4"
+      "tag": "proxy-3"
     },
     {
       "protocol": "vless",
@@ -210,7 +179,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-5"
+      "tag": "proxy-4"
     },
     {
       "protocol": "vless",
@@ -241,7 +210,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-6"
+      "tag": "proxy-5"
     },
     {
       "protocol": "vless",
@@ -272,7 +241,7 @@
           "fingerprint": "firefox"
         }
       },
-      "tag": "proxy-7"
+      "tag": "proxy-6"
     },
     {
       "protocol": "vless",
@@ -303,7 +272,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-8"
+      "tag": "proxy-7"
     },
     {
       "protocol": "vless",
@@ -334,7 +303,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-9"
+      "tag": "proxy-8"
     },
     {
       "protocol": "vless",
@@ -365,7 +334,7 @@
           "fingerprint": "ios"
         }
       },
-      "tag": "proxy-10"
+      "tag": "proxy-9"
     },
     {
       "protocol": "vless",
@@ -396,7 +365,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-11"
+      "tag": "proxy-10"
     },
     {
       "protocol": "vless",
@@ -427,7 +396,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-12"
+      "tag": "proxy-11"
     },
     {
       "protocol": "vless",
@@ -458,7 +427,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-13"
+      "tag": "proxy-12"
     },
     {
       "protocol": "vless",
@@ -489,7 +458,7 @@
           "fingerprint": "ios"
         }
       },
-      "tag": "proxy-14"
+      "tag": "proxy-13"
     },
     {
       "protocol": "vless",
@@ -520,7 +489,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-15"
+      "tag": "proxy-14"
     },
     {
       "protocol": "trojan",
@@ -546,7 +515,7 @@
           ]
         }
       },
-      "tag": "proxy-16"
+      "tag": "proxy-15"
     },
     {
       "protocol": "trojan",
@@ -572,7 +541,7 @@
           ]
         }
       },
-      "tag": "proxy-17"
+      "tag": "proxy-16"
     },
     {
       "protocol": "trojan",
@@ -598,7 +567,7 @@
           ]
         }
       },
-      "tag": "proxy-18"
+      "tag": "proxy-17"
     },
     {
       "protocol": "trojan",
@@ -624,7 +593,7 @@
           ]
         }
       },
-      "tag": "proxy-19"
+      "tag": "proxy-18"
     },
     {
       "protocol": "trojan",
@@ -650,7 +619,7 @@
           ]
         }
       },
-      "tag": "proxy-20"
+      "tag": "proxy-19"
     },
     {
       "protocol": "trojan",
@@ -676,7 +645,7 @@
           ]
         }
       },
-      "tag": "proxy-21"
+      "tag": "proxy-20"
     },
     {
       "protocol": "trojan",
@@ -702,7 +671,7 @@
           ]
         }
       },
-      "tag": "proxy-22"
+      "tag": "proxy-21"
     },
     {
       "protocol": "trojan",
@@ -728,7 +697,7 @@
           ]
         }
       },
-      "tag": "proxy-23"
+      "tag": "proxy-22"
     },
     {
       "protocol": "trojan",
@@ -754,7 +723,7 @@
           ]
         }
       },
-      "tag": "proxy-24"
+      "tag": "proxy-23"
     },
     {
       "protocol": "trojan",
@@ -780,7 +749,7 @@
           ]
         }
       },
-      "tag": "proxy-25"
+      "tag": "proxy-24"
     },
     {
       "protocol": "trojan",
@@ -806,7 +775,7 @@
           ]
         }
       },
-      "tag": "proxy-26"
+      "tag": "proxy-25"
     },
     {
       "protocol": "trojan",
@@ -825,6 +794,32 @@
         "security": "tls",
         "tlsSettings": {
           "serverName": "learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
+          "fingerprint": "chrome",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ]
+        }
+      },
+      "tag": "proxy-26"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "216.152.156.81",
+            "port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "www.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
           "fingerprint": "chrome",
           "alpn": [
             "h2",
@@ -1333,7 +1328,7 @@
       "settings": {
         "servers": [
           {
-            "address": "66.163.118.251",
+            "address": "66.163.118.244",
             "port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "level": 8
@@ -1344,7 +1339,7 @@
         "network": "tcp",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "resources.discovergreatjobsandadvanceyourcareer.com",
+          "serverName": "api.discovergreatjobsandadvanceyourcareer.com",
           "fingerprint": "chrome",
           "alpn": [
             "h2",
@@ -1353,6 +1348,32 @@
         }
       },
       "tag": "proxy-47"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "66.163.118.244",
+            "port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "api.discovergreatjobsandadvanceyourcareer.com",
+          "fingerprint": "chrome",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ]
+        }
+      },
+      "tag": "proxy-48"
     },
     {
       "protocol": "trojan",
@@ -1378,7 +1399,7 @@
           ]
         }
       },
-      "tag": "proxy-48"
+      "tag": "proxy-49"
     },
     {
       "protocol": "trojan",
@@ -1404,7 +1425,7 @@
           ]
         }
       },
-      "tag": "proxy-49"
+      "tag": "proxy-50"
     },
     {
       "protocol": "trojan",
@@ -1430,7 +1451,7 @@
           ]
         }
       },
-      "tag": "proxy-50"
+      "tag": "proxy-51"
     },
     {
       "protocol": "trojan",
@@ -1456,7 +1477,7 @@
           ]
         }
       },
-      "tag": "proxy-51"
+      "tag": "proxy-52"
     },
     {
       "protocol": "trojan",
@@ -1482,67 +1503,23 @@
           ]
         }
       },
-      "tag": "proxy-52"
-    },
-    {
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "104.21.65.43",
-            "port": 2087,
-            "password": "0y7hid61k3k2vuy1",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net",
-          "headers": {
-            "Host": "uwu.dianaw.cc.cd"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "uwu.dianaw.cc.cd",
-          "fingerprint": "chrome",
-          "alpn": [
-            "h2"
-          ]
-        }
-      },
       "tag": "proxy-53"
     },
     {
-      "protocol": "trojan",
+      "protocol": "shadowsocks",
       "settings": {
         "servers": [
           {
-            "address": "uwu.blueknightnet.qzz.io",
-            "port": 2087,
-            "password": "0y7hid61k3k2vuy1",
+            "address": "193.29.139.234",
+            "port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa",
             "level": 8
           }
         ]
       },
       "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net",
-          "headers": {
-            "Host": "uwu.dianaw.cc.cd"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "uwu.dianaw.cc.cd",
-          "fingerprint": "chrome",
-          "alpn": [
-            "h2"
-          ]
-        }
+        "network": "tcp"
       },
       "tag": "proxy-54"
     },

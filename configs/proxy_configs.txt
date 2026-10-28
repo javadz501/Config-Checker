@@ -8,11 +8,9 @@
 
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#VLESS 🇺🇸 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?security=reality&flow=xtls-rprx-vision&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&sid=5c256336e3b673fa&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#VLESS 🇱🇻 REALITY+PBK+SID+VISION+UTLS [443]
-
 vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?flow=xtls-rprx-vision&fp=chrome&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&security=reality&sid=af4ca5d16438c938&sni=vikt659.isgood.host&type=tcp#VLESS 🇱🇻 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@130.78.190.163:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=ee.viralforge.ru&type=tcp#VLESS 🇱🇹 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@130.78.190.163:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=ee.viralforge.ru&type=tcp#VLESS 🇮🇹 REALITY+PBK+SID+VISION+UTLS [443]
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@176.65.144.42:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇨🇭 REALITY+PBK+SID+VISION+UTLS [443]
 
@@ -24,7 +22,7 @@ vless://047466dd-05aa-4331-abf7-322c5aaecf97@83.136.209.31:443?security=reality&
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@ch.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇨🇭 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx-2.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlx-2.viralforge.ru&fp=ios&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx-2.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=dlx-2.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlx.viralforge.ru&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
@@ -32,7 +30,7 @@ vless://047466dd-05aa-4331-abf7-322c5aaecf97@ee.viralforge.ru:443?security=reali
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@fi.viralforge.ru:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&sni=fi.viralforge.ru#VLESS 🇭🇰 RAW+REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@fra.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fra.viralforge.ru&fp=ios&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@fra.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=fra.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@nl-1.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-1.viralforge.ru&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
@@ -44,7 +42,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?security=tls&insec
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
 
@@ -59,6 +57,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Trojan 🇺🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Trojan 🇺🇸 TLS [443]
+
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?allowInsecure=1&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Trojan 🇺🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#Trojan 🇧🇷 TLS [443]
 
@@ -98,7 +98,9 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&insecu
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#Trojan 🇪🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#Trojan 🇪🇸 TLS [443]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&headerType=none&type=tcp&sni=api.discovergreatjobsandadvanceyourcareer.com#Trojan 🇪🇸 TLS [443]
+
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Trojan 🇪🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?insecure=0&type=tcp&headerType=none&security=tls&sni=courses.discovergreatjobsandadvanceyourcareer.com&allowInsecure=0#Trojan 🇪🇸 TLS [443]
 
@@ -110,9 +112,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=0&sni=w
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#Trojan 🇺🇸 TLS [443]
 
-trojan://0y7hid61k3k2vuy1@104.21.65.43:2087?security=tls&type=ws&host=uwu.dianaw.cc.cd&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&sni=uwu.dianaw.cc.cd&alpn=h2&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&allowInsecure=0#Trojan 🇺🇸 WS+TLS+UTLS [2087]
-
-trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?security=tls&type=ws&host=uwu.dianaw.cc.cd&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&sni=uwu.dianaw.cc.cd&alpn=h2&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&allowInsecure=0&insecure=0#Trojan 🇺🇸 WS+TLS+UTLS [2087]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#SS 🇳🇱 AEAD [8080]
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#SS 🇵🇱 AEAD [443]
 

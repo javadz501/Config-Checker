@@ -94,37 +94,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "195.123.213.28",
-            "port": 443,
-            "users": [
-              {
-                "id": "02fcc1a4-ee90-4970-8bbb-4ffaa8109d24",
-                "flow": "xtls-rprx-vision",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "serverName": "www.cloudflare.com",
-          "publicKey": "NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo",
-          "password": "NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo",
-          "shortId": "5c256336e3b673fa",
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-3",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
             "address": "45.43.79.92",
             "port": 443,
             "users": [
@@ -151,7 +120,7 @@
       }
     },
     {
-      "tag": "proxy-4",
+      "tag": "proxy-3",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -177,7 +146,7 @@
       }
     },
     {
-      "tag": "proxy-5",
+      "tag": "proxy-4",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -203,7 +172,7 @@
       }
     },
     {
-      "tag": "proxy-6",
+      "tag": "proxy-5",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -229,7 +198,7 @@
       }
     },
     {
-      "tag": "proxy-7",
+      "tag": "proxy-6",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -255,7 +224,7 @@
       }
     },
     {
-      "tag": "proxy-8",
+      "tag": "proxy-7",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -281,7 +250,7 @@
       }
     },
     {
-      "tag": "proxy-9",
+      "tag": "proxy-8",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -307,7 +276,7 @@
       }
     },
     {
-      "tag": "proxy-10",
+      "tag": "proxy-9",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -333,7 +302,7 @@
       }
     },
     {
-      "tag": "proxy-11",
+      "tag": "proxy-10",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -350,6 +319,32 @@
         "security": "tls",
         "tlsSettings": {
           "serverName": "api.nextjobopportunityandclaimyouridealrole.com",
+          "fingerprint": "chrome",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ]
+        }
+      }
+    },
+    {
+      "tag": "proxy-11",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "216.152.156.212",
+            "port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
           "fingerprint": "chrome",
           "alpn": [
             "h2",
@@ -442,6 +437,32 @@
       "settings": {
         "servers": [
           {
+            "address": "216.152.156.81",
+            "port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "www.healthcarejobshubenhancemedicalprofessionalskillstoday.com",
+          "fingerprint": "chrome",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ]
+        }
+      }
+    },
+    {
+      "tag": "proxy-16",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
             "address": "216.238.104.154",
             "port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
@@ -463,7 +484,7 @@
       }
     },
     {
-      "tag": "proxy-16",
+      "tag": "proxy-17",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -489,7 +510,7 @@
       }
     },
     {
-      "tag": "proxy-17",
+      "tag": "proxy-18",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -515,7 +536,7 @@
       }
     },
     {
-      "tag": "proxy-18",
+      "tag": "proxy-19",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -541,7 +562,7 @@
       }
     },
     {
-      "tag": "proxy-19",
+      "tag": "proxy-20",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -567,7 +588,7 @@
       }
     },
     {
-      "tag": "proxy-20",
+      "tag": "proxy-21",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -593,7 +614,7 @@
       }
     },
     {
-      "tag": "proxy-21",
+      "tag": "proxy-22",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -619,7 +640,7 @@
       }
     },
     {
-      "tag": "proxy-22",
+      "tag": "proxy-23",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -645,7 +666,7 @@
       }
     },
     {
-      "tag": "proxy-23",
+      "tag": "proxy-24",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -671,7 +692,7 @@
       }
     },
     {
-      "tag": "proxy-24",
+      "tag": "proxy-25",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -697,7 +718,7 @@
       }
     },
     {
-      "tag": "proxy-25",
+      "tag": "proxy-26",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -723,7 +744,7 @@
       }
     },
     {
-      "tag": "proxy-26",
+      "tag": "proxy-27",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -749,7 +770,7 @@
       }
     },
     {
-      "tag": "proxy-27",
+      "tag": "proxy-28",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -775,7 +796,7 @@
       }
     },
     {
-      "tag": "proxy-28",
+      "tag": "proxy-29",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -801,7 +822,7 @@
       }
     },
     {
-      "tag": "proxy-29",
+      "tag": "proxy-30",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -827,7 +848,7 @@
       }
     },
     {
-      "tag": "proxy-30",
+      "tag": "proxy-31",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -853,7 +874,7 @@
       }
     },
     {
-      "tag": "proxy-31",
+      "tag": "proxy-32",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -870,32 +891,6 @@
         "security": "tls",
         "tlsSettings": {
           "serverName": "findconnectwithemployersandbuildprofessionalnetwork.com",
-          "fingerprint": "chrome",
-          "alpn": [
-            "h2",
-            "http/1.1"
-          ]
-        }
-      }
-    },
-    {
-      "tag": "proxy-32",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "66.163.118.131",
-            "port": 443,
-            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "www.discovergreatjobsandadvanceyourcareer.com",
           "fingerprint": "chrome",
           "alpn": [
             "h2",
@@ -936,7 +931,7 @@
       "settings": {
         "servers": [
           {
-            "address": "66.163.118.251",
+            "address": "66.163.118.244",
             "port": 443,
             "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "level": 8
@@ -947,7 +942,7 @@
         "network": "tcp",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "resources.discovergreatjobsandadvanceyourcareer.com",
+          "serverName": "api.discovergreatjobsandadvanceyourcareer.com",
           "fingerprint": "chrome",
           "alpn": [
             "h2",
@@ -958,6 +953,32 @@
     },
     {
       "tag": "proxy-35",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "66.163.118.244",
+            "port": 443,
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "api.discovergreatjobsandadvanceyourcareer.com",
+          "fingerprint": "chrome",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ]
+        }
+      }
+    },
+    {
+      "tag": "proxy-36",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -983,7 +1004,7 @@
       }
     },
     {
-      "tag": "proxy-36",
+      "tag": "proxy-37",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -1009,7 +1030,7 @@
       }
     },
     {
-      "tag": "proxy-37",
+      "tag": "proxy-38",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -1035,7 +1056,7 @@
       }
     },
     {
-      "tag": "proxy-38",
+      "tag": "proxy-39",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -1061,7 +1082,7 @@
       }
     },
     {
-      "tag": "proxy-39",
+      "tag": "proxy-40",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -1087,7 +1108,25 @@
       }
     },
     {
-      "tag": "proxy-40",
+      "tag": "proxy-41",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "193.29.139.234",
+            "port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      }
+    },
+    {
+      "tag": "proxy-42",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -1105,7 +1144,7 @@
       }
     },
     {
-      "tag": "proxy-41",
+      "tag": "proxy-43",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -1123,7 +1162,7 @@
       }
     },
     {
-      "tag": "proxy-42",
+      "tag": "proxy-44",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -1141,7 +1180,7 @@
       }
     },
     {
-      "tag": "proxy-43",
+      "tag": "proxy-45",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [

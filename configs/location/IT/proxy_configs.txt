@@ -4,6 +4,8 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@130.78.190.163:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=ee.viralforge.ru&type=tcp#VLESS 🇮🇹 REALITY+PBK+SID+VISION+UTLS [443]
+
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@ee.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇮🇹 REALITY+PBK+SID+VISION+UTLS [443]
 
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443?insecure=1&sni=hopp-netherland-new.dynuddns.net#Hysteria2 🇮🇹 QUIC [8443]

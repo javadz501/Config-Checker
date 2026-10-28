@@ -6,7 +6,7 @@
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@83.136.209.31:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@fra.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fra.viralforge.ru&fp=ios&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@fra.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=fra.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
 
 hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@fr2-cl3.happy-glonaris.top:443?insecure=1&sni=fr2-cl3.happy-glonaris.top#Hysteria2 🇫🇷 QUIC [443]
 
