@@ -531,7 +531,7 @@
           "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
           "password": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
           "shortId": "a1b2c3d4b5",
-          "fingerprint": "firefox"
+          "fingerprint": "chrome"
         },
         "finalmask": {
           "tcp": [
@@ -595,7 +595,7 @@
           "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
           "password": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
           "shortId": "a1b2c3d4b5",
-          "fingerprint": "firefox"
+          "fingerprint": "chrome"
         },
         "finalmask": {
           "tcp": [
@@ -3046,6 +3046,136 @@
       "tag": "proxy-49"
     },
     {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "104.21.65.43",
+            "port": 2087,
+            "password": "0y7hid61k3k2vuy1",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net",
+          "headers": {
+            "Host": "uwu.dianaw.cc.cd"
+          }
+        },
+        "tlsSettings": {
+          "serverName": "uwu.dianaw.cc.cd",
+          "fingerprint": "unsafe",
+          "alpn": [
+            "h2"
+          ],
+          "cipherSuites": "TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256"
+        },
+        "finalmask": {
+          "tcp": [
+            {
+              "type": "fragment",
+              "settings": {
+                "packets": "tlshello",
+                "lengths": [
+                  0,
+                  80,
+                  1
+                ],
+                "delays": [
+                  "0"
+                ],
+                "maxSplit": "0"
+              }
+            },
+            {
+              "type": "fragment",
+              "settings": {
+                "packets": "1-1",
+                "lengths": [
+                  50,
+                  1
+                ],
+                "delays": [
+                  "3"
+                ],
+                "maxSplit": "40"
+              }
+            }
+          ]
+        }
+      },
+      "tag": "proxy-50"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "uwu.blueknightnet.qzz.io",
+            "port": 2087,
+            "password": "0y7hid61k3k2vuy1",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net",
+          "headers": {
+            "Host": "uwu.dianaw.cc.cd"
+          }
+        },
+        "tlsSettings": {
+          "serverName": "uwu.dianaw.cc.cd",
+          "fingerprint": "unsafe",
+          "alpn": [
+            "h2"
+          ],
+          "cipherSuites": "TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256"
+        },
+        "finalmask": {
+          "tcp": [
+            {
+              "type": "fragment",
+              "settings": {
+                "packets": "tlshello",
+                "lengths": [
+                  0,
+                  80,
+                  1
+                ],
+                "delays": [
+                  "0"
+                ],
+                "maxSplit": "0"
+              }
+            },
+            {
+              "type": "fragment",
+              "settings": {
+                "packets": "1-1",
+                "lengths": [
+                  50,
+                  1
+                ],
+                "delays": [
+                  "3"
+                ],
+                "maxSplit": "40"
+              }
+            }
+          ]
+        }
+      },
+      "tag": "proxy-51"
+    },
+    {
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -3094,7 +3224,58 @@
           ]
         }
       },
-      "tag": "proxy-50"
+      "tag": "proxy-52"
+    },
+    {
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "51.38.71.51",
+            "port": 2083,
+            "method": "2022-blake3-aes-256-gcm",
+            "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho=",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "finalmask": {
+          "tcp": [
+            {
+              "type": "fragment",
+              "settings": {
+                "packets": "tlshello",
+                "lengths": [
+                  0,
+                  80,
+                  1
+                ],
+                "delays": [
+                  "0"
+                ],
+                "maxSplit": "0"
+              }
+            },
+            {
+              "type": "fragment",
+              "settings": {
+                "packets": "1-1",
+                "lengths": [
+                  50,
+                  1
+                ],
+                "delays": [
+                  "3"
+                ],
+                "maxSplit": "40"
+              }
+            }
+          ]
+        }
+      },
+      "tag": "proxy-53"
     },
     {
       "protocol": "shadowsocks",
@@ -3145,7 +3326,7 @@
           ]
         }
       },
-      "tag": "proxy-51"
+      "tag": "proxy-54"
     },
     {
       "protocol": "shadowsocks",
@@ -3196,7 +3377,7 @@
           ]
         }
       },
-      "tag": "proxy-52"
+      "tag": "proxy-55"
     },
     {
       "protocol": "shadowsocks",
@@ -3247,7 +3428,7 @@
           ]
         }
       },
-      "tag": "proxy-53"
+      "tag": "proxy-56"
     },
     {
       "protocol": "shadowsocks",
@@ -3298,7 +3479,7 @@
           ]
         }
       },
-      "tag": "proxy-54"
+      "tag": "proxy-57"
     },
     {
       "protocol": "shadowsocks",
@@ -3349,7 +3530,7 @@
           ]
         }
       },
-      "tag": "proxy-55"
+      "tag": "proxy-58"
     },
     {
       "protocol": "freedom",

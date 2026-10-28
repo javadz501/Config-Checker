@@ -4,5 +4,5 @@
 //support-url: https://t.me/An0nymou3Bot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?security=tls&obfs=salamander&obfs-password=09p333uviv2qal0y&insecure=0&sni=giftcard.gisora.ir#Hysteria2 🇸🇪 QUIC+OBFS [52000]
+hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Hysteria2 🇸🇪 QUIC+OBFS [52000]
 

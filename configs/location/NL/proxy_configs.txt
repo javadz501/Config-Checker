@@ -8,9 +8,9 @@ vless://047466dd-05aa-4331-abf7-322c5aaecf97@45.142.106.113:443?security=reality
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@45.142.106.121:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dlx.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx-2.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dlx-2.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx-2.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dlx-2.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dlx.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlx.viralforge.ru&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@nl-1.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-1.viralforge.ru&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 

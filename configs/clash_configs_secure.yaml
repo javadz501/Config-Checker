@@ -621,7 +621,7 @@
       "password": "U/jVh1z5NQ0cFCiCeLLxNAFBjmLBo/ECQ0dICfRFLbQ=:cZkXr9v4dFpHUetNse9xo72JumvR4N2GLz3bxiEh6Rk="
     },
     {
-      "name": "SS 🇳🇱 AEAD [8080] #2",
+      "name": "SS 🇳🇱 AEAD [8080] #3",
       "type": "ss",
       "server": "193.29.139.234",
       "port": 8080,
@@ -629,7 +629,7 @@
       "password": "4a2rfixophdjffa8KVA4Aa"
     },
     {
-      "name": "SS 🇵🇱 AEAD [443] #3",
+      "name": "SS 🇵🇱 AEAD [443] #4",
       "type": "ss",
       "server": "54.36.174.134",
       "port": 443,
@@ -637,7 +637,7 @@
       "password": "6heexyz"
     },
     {
-      "name": "SS 🇵🇱 AEAD [443] #4",
+      "name": "SS 🇵🇱 AEAD [443] #5",
       "type": "ss",
       "server": "pl134.vpnbook.com",
       "port": 443,
@@ -645,7 +645,7 @@
       "password": "6heexyz"
     },
     {
-      "name": "SS 🇵🇱 AEAD [443] #5",
+      "name": "SS 🇵🇱 AEAD [443] #6",
       "type": "ss",
       "server": "pl140.vpnbook.com",
       "port": 443,
@@ -653,7 +653,7 @@
       "password": "6heexyz"
     },
     {
-      "name": "SS 🇫🇮 AEAD [8388] #6",
+      "name": "SS 🇫🇮 AEAD [8388] #7",
       "type": "ss",
       "server": "ams1.rvpn.app",
       "port": 8388,
@@ -726,11 +726,11 @@
         "Trojan 🇺🇸 TLS [443] #36",
         "Trojan 🇺🇸 TLS [443] #37",
         "SS 🇩🇪 2022+BLAKE3 [53185] #1",
-        "SS 🇳🇱 AEAD [8080] #2",
-        "SS 🇵🇱 AEAD [443] #3",
+        "SS 🇳🇱 AEAD [8080] #3",
         "SS 🇵🇱 AEAD [443] #4",
         "SS 🇵🇱 AEAD [443] #5",
-        "SS 🇫🇮 AEAD [8388] #6",
+        "SS 🇵🇱 AEAD [443] #6",
+        "SS 🇫🇮 AEAD [8388] #7",
         "Hysteria2 🇺🇸 QUIC [443] #8",
         "Hysteria2 🇳🇱 QUIC+OBFS [8443] #47",
         "DIRECT"
@@ -779,11 +779,11 @@
         "Trojan 🇺🇸 TLS [443] #36",
         "Trojan 🇺🇸 TLS [443] #37",
         "SS 🇩🇪 2022+BLAKE3 [53185] #1",
-        "SS 🇳🇱 AEAD [8080] #2",
-        "SS 🇵🇱 AEAD [443] #3",
+        "SS 🇳🇱 AEAD [8080] #3",
         "SS 🇵🇱 AEAD [443] #4",
         "SS 🇵🇱 AEAD [443] #5",
-        "SS 🇫🇮 AEAD [8388] #6",
+        "SS 🇵🇱 AEAD [443] #6",
+        "SS 🇫🇮 AEAD [8388] #7",
         "Hysteria2 🇺🇸 QUIC [443] #8",
         "Hysteria2 🇳🇱 QUIC+OBFS [8443] #47"
       ],
