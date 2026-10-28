@@ -6,9 +6,13 @@
 
 
 
+vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#VLESS 🇺🇸 REALITY+PBK+SID+VISION+UTLS [443]
+
 vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?security=reality&flow=xtls-rprx-vision&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&sid=5c256336e3b673fa&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#VLESS 🇱🇻 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@130.78.190.163:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇮🇹 REALITY+PBK+SID+VISION+UTLS [443]
+vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?flow=xtls-rprx-vision&fp=chrome&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&security=reality&sid=af4ca5d16438c938&sni=vikt659.isgood.host&type=tcp#VLESS 🇱🇻 REALITY+PBK+SID+VISION+UTLS [443]
+
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@130.78.190.163:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=ee.viralforge.ru&type=tcp#VLESS 🇱🇹 REALITY+PBK+SID+VISION+UTLS [443]
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@176.65.144.42:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇨🇭 REALITY+PBK+SID+VISION+UTLS [443]
 
@@ -16,17 +20,19 @@ vless://047466dd-05aa-4331-abf7-322c5aaecf97@45.142.106.113:443?security=reality
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@45.142.106.121:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dlx.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@83.136.209.31:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fra.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@83.136.209.31:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@ch.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇨🇭 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx-2.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dlx-2.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx-2.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlx-2.viralforge.ru&fp=ios&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlx.viralforge.ru&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@ee.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇮🇹 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@ee.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇮🇹 REALITY+PBK+SID+VISION+UTLS [443]
 
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@fra.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra.viralforge.ru&sid=a1b2c3d4b5#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@fi.viralforge.ru:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&sni=fi.viralforge.ru#VLESS 🇭🇰 RAW+REALITY+PBK+SID+VISION+UTLS [443]
+
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@fra.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fra.viralforge.ru&fp=ios&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇫🇷 REALITY+PBK+SID+VISION+UTLS [443]
 
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@nl-1.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-1.viralforge.ru&fp=chrome&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#VLESS 🇳🇱 REALITY+PBK+SID+VISION+UTLS [443]
 
@@ -34,11 +40,13 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insec
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#Trojan 🇺🇸 TLS [443]
 
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
+
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com#Trojan 🇺🇸 TLS [443]
 
@@ -50,9 +58,9 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Trojan 🇺🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Trojan 🇺🇸 TLS [443]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Trojan 🇺🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?allowInsecure=1&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#Trojan 🇺🇸 TLS [443]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#Trojan 🇧🇷 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#Trojan 🇦🇺 TLS [443]
 
@@ -70,7 +78,9 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?security=tls&insecu
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.unlockyourfuturefindyourperfectcareer.com#Trojan 🇺🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.unlockyourfuturefindyourperfectcareer.com#Trojan 🇺🇸 TLS [443]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.31:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=unlockyourfuturefindyourperfectcareer.com#Trojan 🇺🇸 TLS+UTLS [443]
+
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.unlockyourfuturefindyourperfectcareer.com#Trojan 🇺🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com#Trojan 🇺🇸 TLS [443]
 
@@ -88,31 +98,21 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&insecu
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#Trojan 🇪🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&headerType=none&type=tcp&sni=api.discovergreatjobsandadvanceyourcareer.com#Trojan 🇪🇸 TLS [443]
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Trojan 🇪🇸 TLS [443]
-
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#Trojan 🇪🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?insecure=0&type=tcp&headerType=none&security=tls&sni=courses.discovergreatjobsandadvanceyourcareer.com&allowInsecure=0#Trojan 🇪🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.searchnationwidecareerchangehelperandguidancetoday.com#Trojan 🇺🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#Trojan 🇺🇸 TLS [443]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?allowInsecure=1&insecure=1&security=tls&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none#Trojan 🇺🇸 TLS [443]
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#Trojan 🇺🇸 TLS [443]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#Trojan 🇺🇸 TLS [443]
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#Trojan 🇺🇸 TLS [443]
 
 trojan://0y7hid61k3k2vuy1@104.21.65.43:2087?security=tls&type=ws&host=uwu.dianaw.cc.cd&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&sni=uwu.dianaw.cc.cd&alpn=h2&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&allowInsecure=0#Trojan 🇺🇸 WS+TLS+UTLS [2087]
 
 trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?security=tls&type=ws&host=uwu.dianaw.cc.cd&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&sni=uwu.dianaw.cc.cd&alpn=h2&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&allowInsecure=0&insecure=0#Trojan 🇺🇸 WS+TLS+UTLS [2087]
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VS9qVmgxejVOUTBjRkNpQ2VMTHhOQUZCam1MQm8vRUNRMGRJQ2ZSRkxiUT06Y1prWHI5djRkRnBIVWV0TnNlOXhvNzJKdW12UjROMkdMejNieGlFaDZSaz0@91.107.128.44:53185#SS 🇩🇪 2022+BLAKE3 [53185]
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#SS 🇫🇷 2022+BLAKE3 [2083]
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#SS 🇳🇱 AEAD [8080]
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#SS 🇵🇱 AEAD [443]
 
@@ -124,7 +124,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MkE2QXN5Wi1yQWxsejB3YktIeldB@ams1.rvpn.app:
 
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#Hysteria2 🇹🇭 QUIC [55443]
 
-hysteria2://1953e43b-605c-4262-83eb-41a80646b801@87.76.211.161:443?insecure=1&sni=fastlinkdownload.song69.fun#Hysteria2 🇫🇷 QUIC [443]
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@31.77.29.74:4444?insecure=1&sni=jap2.nexfile.net#Hysteria2 🇧🇻 QUIC [4444]
+
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl2.nexfile.net:4444?insecure=1#Hysteria2 🇩🇪 QUIC [4444]
+
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@jap2.nexfile.net:4444?insecure=1#Hysteria2 🇧🇻 QUIC [4444]
 
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443?insecure=1&sni=replay.wwwinternetvideo.click#Hysteria2 🇩🇪 QUIC [443]
 
@@ -140,13 +144,9 @@ hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynew
 
 hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374&insecure=0&sni=srv-0e5387.frd21.ru#Hysteria2 🇳🇱 QUIC+OBFS [11592]
 
-hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@195.177.94.166:443?insecure=1&sni=fr2-cl3.happy-glonaris.top#Hysteria2 🇫🇷 QUIC [443]
+hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@fr2-cl3.happy-glonaris.top:443?insecure=1&sni=fr2-cl3.happy-glonaris.top#Hysteria2 🇫🇷 QUIC [443]
 
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#Hysteria2 🇷🇺 QUIC+OBFS [36758]
-
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xby.mangshe.xyz:2060?insecure=1&sni=xby.mangshe.xyz#Hysteria2 🇺🇸 QUIC [2060]
-
-hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Hysteria2 🇸🇪 QUIC+OBFS [52000]
 
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#Hysteria2 🇫🇮 QUIC+OBFS [443]
 
@@ -156,17 +156,11 @@ hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=t
 
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog#Hysteria2 🇷🇺 QUIC [2053]
 
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@43.200.255.38:443?insecure=1&sni=www.bing.com&pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#Hysteria2 🇰🇷 QUIC [443]
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@43.201.146.134:443?insecure=1&sni=www.bing.com&pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#Hysteria2 🇰🇷 QUIC [443]
 
 hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443?insecure=1&sni=crt.ultimagamest.com#Hysteria2 🇵🇱 QUIC [443]
 
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Hysteria2 🇫🇮 QUIC+OBFS [52087]
-
-hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Hysteria2 🇩🇪 QUIC+OBFS [52000]
-
-hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?insecure=1&sni=promo3.betust.net#Hysteria2 🇺🇸 QUIC [443]
-
-hysteria2://9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW@45.131.65.244:30396?insecure=0&sni=pisulka.jsbox.top#Hysteria2 🇩🇪 QUIC [30396]
 
 hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443?insecure=1&sni=fin14qr.wwwinternetvideo.click#Hysteria2 🇩🇪 QUIC [443]
 
@@ -183,8 +177,6 @@ hysteria2://CnVfXXvMzh@72.56.92.120:443?insecure=1&sni=hys13.wba-pn.ru#Hysteria2
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#Hysteria2 🇳🇱 QUIC [443]
 
 hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@147.15.108.14:20000?insecure=1&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&sni=rmgyvpn.rest#Hysteria2 🇧🇷 QUIC+OBFS [20000]
-
-hysteria2://EOaHwQIGHSjmsbYl_g6nPanNsQ2td2Yv@ip.immahan.ir:8443?alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&sni=tr.tu5pars.ir&obfs=salamander&obfs-password=TYrQkc4C2MJMKlzlge0M_hrH#Hysteria2 🇮🇷 QUIC+OBFS [8443]
 
 hysteria2://EkF2Yw0Lc7@72.56.16.243:443?insecure=1&sni=hys34.wba-pn.ru#Hysteria2 🇳🇱 QUIC [443]
 
@@ -208,6 +200,8 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&s
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#Hysteria2 🇹🇼 QUIC [443]
 
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=t.me#Hysteria2 🇳🇱 QUIC+OBFS [8443]
+
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080?insecure=1&sni=hopp-romania-new.roxa.org#Hysteria2 🇩🇿 QUIC [8080]
 
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?insecure=1&sni=hopp-romania-new.roxa.org#Hysteria2 🇩🇿 QUIC [8080]
@@ -217,4 +211,10 @@ hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-p
 hysteria2://NL2026hy@147.45.149.88:8443?obfs=salamander&obfs-password=SalamanderNL2026&sni=nl.nobelchat.ru#Hysteria2 🇳🇱 QUIC+OBFS [8443]
 
 hysteria2://OD6gGbGU9a@195.133.24.124:443?sni=hys26.wba-pn.ru#Hysteria2 🇳🇱 QUIC [443]
+
+hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?sni=hys26.wba-pn.ru#Hysteria2 🏳️ QUIC [443]
+
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443?insecure=1&sni=hopp-netherland-new.dynuddns.net#Hysteria2 🇮🇹 QUIC [8443]
+
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?insecure=1&sni=hopp-netherland-new.dynuddns.net#Hysteria2 🇮🇹 QUIC [8443]
 
